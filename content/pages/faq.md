@@ -50,7 +50,7 @@ sections:
       - question: Are you shipping internationally?
         answer: |
           Yes, we are shipping in lot of countries in the world.
-      - question: How is this different from what we have today?
+      - question: How long does it take to ship to my country?
         answer: >-
           At the office, working together is often a distruction, on remote, it
           could be motivation, At the office, working together is often a
