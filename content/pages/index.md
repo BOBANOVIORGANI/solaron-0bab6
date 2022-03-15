@@ -86,7 +86,7 @@ sections:
           Learn how top tech companies have learned working remote using our
           product.
         featuredImage:
-          url: /images/smarter.svg
+          url: /images/2914281.png
           altText: altText of the image
           caption: Caption of the image
           elementId: ''
