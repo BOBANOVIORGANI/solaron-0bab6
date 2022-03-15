@@ -57,9 +57,8 @@ sections:
     items:
       - type: FeaturedItem
         title: Ecofriendly
-        text: >
-          Learn how top tech companies have learned working remote using our
-          product.
+        text: |
+          It's made of recycle materials what doesn't affect to the nature.
         featuredImage:
           url: /images/1460537.png
           altText: altText of the image
