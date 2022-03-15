@@ -96,7 +96,7 @@ sections:
     type: MediaGallerySection
   - colors: colors-a
     elementId: ''
-    title: Open roles
+    title: Team roles
     jobLists:
       - type: JobList
         title: Product
