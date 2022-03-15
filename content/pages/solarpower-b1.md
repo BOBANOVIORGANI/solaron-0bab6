@@ -21,7 +21,7 @@ sections:
           textAlign: left
     actions:
       - type: Button
-        label: Get Started
+        label: BUY NOW
         url: /
         style: primary
       - type: Link
