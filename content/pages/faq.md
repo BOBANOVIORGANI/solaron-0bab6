@@ -43,11 +43,10 @@ sections:
           We are providing service to you in form of offering the best shopping
           experience we can. We also provide safe checkout to all customers.
       - question: Where are you located?
-        answer: >-
-          At the office, working together is often a distruction, on remote, it
-          could be motivation, At the office, working together is often a
-          distruction, on remote, it could be motivation, At the office, working
-          together is often a distruction, on remote, it could be motivation
+        answer: >
+          We are located in Zagreb, capital city of small European country
+          called Croatia. The factory itself is located in China but we are
+          here.
       - question: How is this different from what we have today?
         answer: >-
           At the office, working together is often a distruction, on remote, it
