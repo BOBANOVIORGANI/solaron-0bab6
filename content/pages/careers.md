@@ -40,7 +40,7 @@ sections:
       ## Being part of this team has been incredible. We’ve fill each other’s
       gaps, and helping each other.
 
-    name: Carla Rogers
+    name: Team
     title: Someone from the team
     styles:
       self:
