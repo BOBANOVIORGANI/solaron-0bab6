@@ -85,7 +85,7 @@
         "contacts": {
             "title": "Contact details",
             "phoneNumber": "850-123-5021",
-            "phoneAltText": "Our phone",
+            "phoneAltText": "Phone",
             "email": "contact.solarow@gmail.com",
             "emailAltText": "Contact mail",
             "address": "Zagreb, Croatia",
