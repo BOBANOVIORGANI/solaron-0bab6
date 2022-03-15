@@ -254,12 +254,7 @@ sections:
     title: >-
       We sometimes write things. You should read it, it might shed some light on
       why we’re doing what we’re doing
-    actions:
-      - type: Link
-        label: See all posts
-        url: /blog
-        showIcon: true
-        icon: arrowRight
+    actions: []
     posts:
       - content/pages/blog/post-four.md
       - content/pages/blog/post-three.md
