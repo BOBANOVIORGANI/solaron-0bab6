@@ -309,12 +309,6 @@ sections:
           charging. It also has USB slots for charging your devices
           non-wirelessly. The PowerBank itself will charge whenever it gets
           enough sun. 
-      - question: Shopping on SOLAROW.COM
-        answer: >
-          Shopping is simple. Like any other webstore. You just need to choose
-          your preferred product, and then enter the shipping information and
-          payment method. Shopping and checkout are secure. We are not storing
-          your payment information anywhere.
       - question: I have more questions.
         answer: |
           For every other question that you have, contact us and we will reply.
