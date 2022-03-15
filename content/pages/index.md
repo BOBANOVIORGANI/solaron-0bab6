@@ -165,7 +165,7 @@ sections:
       The newest and first wireless solar PowerBank from SOLAROW.
     actions:
       - type: Button
-        label: Get Started
+        label: BUY NOW
         url: 'https://www.stackbit.com/'
         style: primary
         elementId: hero-main-button
