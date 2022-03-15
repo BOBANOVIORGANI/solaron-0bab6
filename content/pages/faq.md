@@ -32,7 +32,7 @@ sections:
           Unfortunately, there is no refund policy so you can't get refund for
           products you purchased or return it, we recommend you to double check
           and think before you shop here to not get disapointed.
-      - question: How is this different from what we have today?
+      - question: Privacy Policy?
         answer: >-
           At the office, working together is often a distruction, on remote, it
           could be motivation, At the office, working together is often a
