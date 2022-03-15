@@ -103,7 +103,7 @@ sections:
         items:
           - type: JobListItem
             title: CEO and director of the company
-            location: San Francisco
+            location: Marin Golub
             text: >
               Lorem Ipsum is simply dummy text of the printing and typesetting
               industry. Lorem Ipsum has been the industry's standard dummy text
