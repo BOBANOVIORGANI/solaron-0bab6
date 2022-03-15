@@ -8,7 +8,7 @@ sections:
     subtitle: Everything about team SOLAROW.
     media:
       type: ImageBlock
-      url: /images/hero-4.jpg
+      url: /images/teamwork-min.png
       altText: Hero section image
     styles:
       self:
