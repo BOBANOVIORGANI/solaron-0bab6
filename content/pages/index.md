@@ -109,8 +109,7 @@ sections:
         title: Focused
         text: >
           It is focused to the smartphone and tablet lines, no matter does it or
-          doesn't support wireless charging, and it has enough battery to charge
-          your device from 0 to 100%.
+          doesn't support wireless charging.
         featuredImage:
           url: /images/1828178.png
           altText: altText of the image
