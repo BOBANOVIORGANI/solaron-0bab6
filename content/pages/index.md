@@ -370,8 +370,8 @@ sections:
     variant: variant-a
     testimonials:
       - quote: >
-          Such a great experience to be using this product. It really helped
-          with what I needed help with.
+          The company is here where it is, but only time will tell what future
+          will be.
         name: Marin Golub
         title: CEO of SOLAROW
         image:
