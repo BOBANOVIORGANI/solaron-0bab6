@@ -8,7 +8,6 @@ title: Privacy Policy
 sections:
   - type: TextSection
     colors: colors-a
-    title: Privacy Policy
     styles:
       self:
         height: auto
