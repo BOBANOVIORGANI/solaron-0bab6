@@ -28,11 +28,10 @@ sections:
           payment method. Shopping and checkout are secure. We are not storing
           your payment information anywhere.
       - question: Refund policy
-        answer: >-
-          At the office, working together is often a distruction, on remote, it
-          could be motivation, At the office, working together is often a
-          distruction, on remote, it could be motivation, At the office, working
-          together is often a distruction, on remote, it could be motivation
+        answer: >
+          Unfortunately, there is no refund policy so you can't get refund for
+          products you purchased or return it, we recommend you to double check
+          and think before you shop here to not get disapointed.
       - question: How is this different from what we have today?
         answer: >-
           At the office, working together is often a distruction, on remote, it
