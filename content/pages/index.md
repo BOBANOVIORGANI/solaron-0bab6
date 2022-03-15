@@ -359,6 +359,37 @@ sections:
         elementId: ''
         type: Link
         label: See all
+  - elementId: ''
+    colors: colors-a
+    variant: variant-a
+    testimonials:
+      - quote: >
+          The company is here where it is, but only time will tell how the
+          future of SOLAROW will look like.
+        name: Marin Golub
+        title: CEO of SOLAROW
+        image:
+          type: ImageBlock
+          url: /images/carla.jpg
+          altText: Photo of Carla Rogers
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+        padding:
+          - pt-28
+          - pb-56
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+    type: TestimonialsSection
   - type: ContactSection
     colors: colors-f
     backgroundSize: inset
@@ -407,35 +438,4 @@ sections:
         textAlign: center
       text:
         textAlign: center
-  - elementId: ''
-    colors: colors-a
-    variant: variant-a
-    testimonials:
-      - quote: >
-          The company is here where it is, but only time will tell how the
-          future of SOLAROW will look like.
-        name: Marin Golub
-        title: CEO of SOLAROW
-        image:
-          type: ImageBlock
-          url: /images/carla.jpg
-          altText: Photo of Carla Rogers
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-        padding:
-          - pt-28
-          - pb-56
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-    type: TestimonialsSection
 ---
