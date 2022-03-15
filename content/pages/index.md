@@ -372,7 +372,7 @@ sections:
       - quote: >
           Such a great experience to be using this product. It really helped
           with what I needed help with.
-        name: Carla Rogers
+        name: Marin Golub
         title: Happy customer
         image:
           type: ImageBlock
