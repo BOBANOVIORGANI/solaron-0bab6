@@ -390,4 +390,5 @@ sections:
       subtitle:
         textAlign: left
     type: TestimonialsSection
+socialImage: /images/SOLAROW (1).png
 ---
