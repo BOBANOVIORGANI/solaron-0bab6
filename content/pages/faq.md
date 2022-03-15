@@ -27,7 +27,7 @@ sections:
           your preferred product, and then enter the shipping information and
           payment method. Shopping and checkout are secure. We are not storing
           your payment information anywhere.
-      - question: How is this different from what we have today?
+      - question: Refund policy
         answer: >-
           At the office, working together is often a distruction, on remote, it
           could be motivation, At the office, working together is often a
