@@ -5,7 +5,7 @@ sections:
   - elementId: ''
     colors: colors-h
     title: Everything about our team
-    subtitle: You should join us.
+    subtitle: Everything about team SOLAROW.
     media:
       type: ImageBlock
       url: /images/hero-4.jpg
