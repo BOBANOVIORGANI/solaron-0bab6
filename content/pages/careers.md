@@ -99,7 +99,7 @@ sections:
     title: Team roles
     jobLists:
       - type: JobList
-        title: Product
+        title: CEO
         items:
           - type: JobListItem
             title: Director of product managment
