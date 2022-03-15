@@ -349,10 +349,6 @@ sections:
           future of SOLAROW will look like.
         name: Marin Golub
         title: CEO of SOLAROW
-        image:
-          type: ImageBlock
-          url: /images/carla.jpg
-          altText: Photo of Carla Rogers
     styles:
       self:
         height: auto
