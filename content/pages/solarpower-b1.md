@@ -10,9 +10,9 @@ sections:
     colors: colors-f
     backgroundSize: inset
     title: SolarPower B1
-    text: >-
-      Learn how top tech companies have learned working remote using our
-      product.
+    text: >
+      10000mAh wireless PowerBank that can be charged by solar energy. It
+      charges your phone wired and wirelessly.
     badge:
       type: Badge
       label: PowerBank
