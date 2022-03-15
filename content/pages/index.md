@@ -305,7 +305,7 @@ sections:
           SOLAROW is tech equipment company who is specialised for solar
           additions for smartphone. Company is found in 2022, and since then,
           they are producing smart additions.
-      - question: How is this different from what we have today?
+      - question: What is Solar Power?
         answer: >-
           At the office, working together is often a distruction, on remote, it
           could be motivation, At the office, working together is often a
