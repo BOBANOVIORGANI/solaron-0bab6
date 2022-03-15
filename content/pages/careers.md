@@ -66,7 +66,7 @@ sections:
     colors: colors-a
     images:
       - type: ImageBlock
-        url: /images/careers.jpg
+        url: /images/programming-team-content.png
         altText: People in the meeting room
       - type: ImageBlock
         url: /images/post-2.jpg
