@@ -2,7 +2,6 @@
 title: Convert commute time to family time
 layout: PostLayout
 date: '2022-03-15'
-author: content/data/team/desmond-eagle.json
 excerpt: >-
   Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
   condimentum dignissim justo vel faucibus.
