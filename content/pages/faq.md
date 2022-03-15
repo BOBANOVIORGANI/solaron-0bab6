@@ -60,11 +60,9 @@ sections:
           distruction, on remote, it could be motivation, At the office, working
           together is often a distruction, on remote, it could be motivation
       - question: I am still not satisfied
-        answer: >-
-          At the office, working together is often a distruction, on remote, it
-          could be motivation, At the office, working together is often a
-          distruction, on remote, it could be motivation, At the office, working
-          together is often a distruction, on remote, it could be motivation
+        answer: >
+          Still have questions? Contact us and we will answer as soon as
+          possible.
     styles:
       self:
         height: auto
