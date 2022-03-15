@@ -328,11 +328,8 @@ sections:
           what you will be able to track, and when that time come, you will get
           your product.
       - question: I have more questions.
-        answer: >-
-          At the office, working together is often a distruction, on remote, it
-          could be motivation. At the office, working together is often a
-          distruction, on remote, it could be motivation. At the office, working
-          together is often a distruction, on remote, it could be motivation.
+        answer: |
+          For every other question that you have, contact us and we will reply.
     styles:
       self:
         height: auto
