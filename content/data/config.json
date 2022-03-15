@@ -40,7 +40,7 @@
                 "url": "/",
                 "altText": "Sign up",
                 "style": "primary",
-                "showIcon": true
+                "showIcon": false
             }
         ],
         "styles": {
