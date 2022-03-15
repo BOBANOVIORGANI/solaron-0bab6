@@ -102,7 +102,7 @@ sections:
         title: CEO
         items:
           - type: JobListItem
-            title: Director of product managment
+            title: CEO and director of the company
             location: San Francisco
             text: >
               Lorem Ipsum is simply dummy text of the printing and typesetting
