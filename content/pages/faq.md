@@ -48,11 +48,8 @@ sections:
           called Croatia. The factory itself is located in China but we are
           here.
       - question: Are you shipping internationally?
-        answer: >-
-          At the office, working together is often a distruction, on remote, it
-          could be motivation, At the office, working together is often a
-          distruction, on remote, it could be motivation, At the office, working
-          together is often a distruction, on remote, it could be motivation
+        answer: |
+          Yes, we are shipping in lot of countries in the world.
       - question: How is this different from what we have today?
         answer: >-
           At the office, working together is often a distruction, on remote, it
