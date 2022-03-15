@@ -57,8 +57,9 @@ sections:
     items:
       - type: FeaturedItem
         title: Ecofriendly
-        text: |
-          It's made of recycle materials what doesn't affect to the nature.
+        text: >
+          It's made of recycle and degradable materials what doesn't affect to
+          the nature.
         featuredImage:
           url: /images/1460537.png
           altText: altText of the image
