@@ -51,11 +51,9 @@ sections:
         answer: |
           Yes, we are shipping in lot of countries in the world.
       - question: How long does it take to ship to my country?
-        answer: >-
-          At the office, working together is often a distruction, on remote, it
-          could be motivation, At the office, working together is often a
-          distruction, on remote, it could be motivation, At the office, working
-          together is often a distruction, on remote, it could be motivation
+        answer: >
+          We can't say very accurate because it depends on what country are you
+          living in, but it can take up to a month.
       - question: I am still not satisfied
         answer: >
           Still have questions? Contact us and we will answer as soon as
