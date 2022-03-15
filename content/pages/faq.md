@@ -38,7 +38,7 @@ sections:
           information is not stored. We are only having shipping information
           when we need to ship you wanted product and from payment info, we just
           get the information what type of payment method did you use.
-      - question: How is this different from what we have today?
+      - question: Terms of Service
         answer: >-
           At the office, working together is often a distruction, on remote, it
           could be motivation, At the office, working together is often a
