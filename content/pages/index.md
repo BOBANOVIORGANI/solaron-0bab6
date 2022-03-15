@@ -322,11 +322,11 @@ sections:
           payment method. Shopping and checkout are secure. We are not storing
           your payment information anywhere.
       - question: Shipping and refund policy
-        answer: >-
-          At the office, working together is often a distruction, on remote, it
-          could be motivation. At the office, working together is often a
-          distruction, on remote, it could be motivation. At the office, working
-          together is often a distruction, on remote, it could be motivation.
+        answer: >
+          Unfortunately, there is no refund policy so you can't get refund for
+          products you purchased. Shipping is simple, you will get order code
+          what you will be able to track, and when that time come, you will get
+          your product.
       - question: How is this different from what we have today?
         answer: >-
           At the office, working together is often a distruction, on remote, it
