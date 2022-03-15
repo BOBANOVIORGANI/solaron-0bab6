@@ -82,8 +82,8 @@ sections:
       - type: FeaturedItem
         title: Smarter
         text: >
-          Learn how top tech companies have learned working remote using our
-          product.
+          When the PowerBank is charged to the max, it will automatically stop
+          charging to extend the battery.
         featuredImage:
           url: /images/2914281.png
           altText: altText of the image
