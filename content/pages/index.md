@@ -5,7 +5,7 @@ sections:
   - type: HeroSection
     elementId: homepage-hero-1
     colors: colors-a
-    title: 'Love your work. Work loves you.'
+    title: Love your work. Work loves you.
     subtitle: 'One platform, one community.'
     actions:
       - type: Button
@@ -109,66 +109,6 @@ sections:
         self:
           opacity: 100
       type: ImageBlock
-  - colors: colors-h
-    subtitle: Trusted by
-    elementId: ''
-    images:
-      - type: ImageBlock
-        url: /images/apple.svg
-        altText: Apple
-        caption: Apple
-      - type: ImageBlock
-        url: /images/google-play.svg
-        altText: Google Play
-        caption: Google Play
-      - type: ImageBlock
-        url: /images/playstation.svg
-        altText: PlayStation
-        caption: PlayStation
-      - type: ImageBlock
-        url: /images/gatsby.svg
-        altText: Gatsby
-        caption: Gatsby
-      - type: ImageBlock
-        url: /images/xbox.svg
-        altText: Xbox
-        caption: Xbox
-      - type: ImageBlock
-        url: /images/skype.svg
-        altText: Skype
-        caption: Skype
-      - type: ImageBlock
-        url: /images/zcool.svg
-        altText: ZCOOL
-        caption: ZCOOL
-    spacing: 3
-    columns: 7
-    aspectRatio: 'auto'
-    showCaption: false
-    enableHover: false
-    styles:
-      self:
-        width: wide
-        height: auto
-        margin:
-          - mt-0
-          - mb-0
-        padding:
-          - pt-12
-          - pb-24
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderRadius: none
-        borderWidth: 0
-        borderStyle: none
-        borderColor: border-dark
-      title:
-        textAlign: center
-      subtitle:
-        textAlign: center
-    imageSizePx: 240
-    type: MediaGallerySection
   - colors: colors-a
     elementId: ''
     title: Remote doesn’t mean alone. Here are so great features
@@ -378,12 +318,13 @@ sections:
   - elementId: ''
     colors: colors-a
     variant: variant-b
-    title: We sometimes write things. You should read it, it might shed some
-      light on why we’re doing what we’re doing
+    title: >-
+      We sometimes write things. You should read it, it might shed some light on
+      why we’re doing what we’re doing
     actions:
       - type: Link
         label: See all posts
-        url: '/blog'
+        url: /blog
         showIcon: true
         icon: arrowRight
     posts:
