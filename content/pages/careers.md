@@ -105,10 +105,9 @@ sections:
             title: CEO and director of the company
             location: Marin Golub
             text: >
-              Lorem Ipsum is simply dummy text of the printing and typesetting
-              industry. Lorem Ipsum has been the industry's standard dummy text
-              ever since the 1500s, when an unknown printer took a galley of
-              type and
+              CEO and founder of SOLAROW. Born in Croatia, small country in
+              Europe. He managed to make a company with just 14 years. Now he is
+              indebted for everything what is happening.
             actions:
               - label: Apply
                 altText: Apply
