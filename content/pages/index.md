@@ -20,8 +20,7 @@ sections:
         iconPosition: right
     media:
       type: ImageBlock
-      url: >-
-        /images/Solar-Power-Bank-Waterproof-30000mAh-Solar-Charger-2-USB-Ports-External-Charger-Powerbank-for-Xiaomi-Smartphone.png
+      url: /images/1647368293288.png
       altText: Image alt text
       caption: Image caption
     styles:
