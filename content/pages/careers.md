@@ -108,15 +108,7 @@ sections:
               CEO and founder of SOLAROW. Born in Croatia, small country in
               Europe. He managed to make a company with just 14 years. Now he is
               indebted for everything what is happening.
-            actions:
-              - label: Apply
-                altText: Apply
-                url: /
-                showIcon: true
-                icon: arrowRight
-                iconPosition: right
-                elementId: ''
-                type: Link
+            actions: []
     styles:
       self:
         height: auto
