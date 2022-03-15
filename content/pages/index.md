@@ -370,8 +370,8 @@ sections:
     variant: variant-a
     testimonials:
       - quote: >
-          The company is here where it is, but only time will tell what future
-          will be.
+          The company is here where it is, but only time will tell what the
+          future of SOLAROW will be.
         name: Marin Golub
         title: CEO of SOLAROW
         image:
