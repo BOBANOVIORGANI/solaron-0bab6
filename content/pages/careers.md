@@ -69,7 +69,7 @@ sections:
         url: /images/programming-team-content.png
         altText: People in the meeting room
       - type: ImageBlock
-        url: /images/post-2.jpg
+        url: /images/graphic-design-team-3-1024x536.png
         altText: People in the meeting room
     spacing: 3
     columns: 2
