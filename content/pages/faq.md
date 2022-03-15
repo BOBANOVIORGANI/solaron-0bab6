@@ -21,7 +21,7 @@ sections:
           charging. It also has USB slots for charging your devices
           non-wirelessly. The PowerBank itself will charge whenever it gets
           enough sun.
-      - question: How is this different from what we have today?
+      - question: Is shopping safe here?
         answer: >-
           At the office, working together is often a distruction, on remote, it
           could be motivation, At the office, working together is often a
