@@ -108,8 +108,9 @@ sections:
       - type: FeaturedItem
         title: Focused
         text: >
-          Learn how top tech companies have learned working remote using our
-          product.
+          It is focused to the smartphone and tablet lines, no matter does it or
+          doesn't support wireless charging, and it has enough battery to charge
+          your device from 0 to 100%.
         featuredImage:
           url: /images/1828178.png
           altText: altText of the image
