@@ -33,7 +33,7 @@ sections:
         iconPosition: left
     media:
       type: ImageBlock
-      url: /images/hero-3.jpg
+      url: /images/HTB1nsPlagvD8KJjSsplq6yIEFXaP.jpg
       altText: Team meeting
     styles:
       self:
