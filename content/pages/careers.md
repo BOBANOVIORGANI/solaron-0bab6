@@ -102,7 +102,7 @@ sections:
         title: CEO
         items:
           - type: JobListItem
-            title: CEO and director of the company
+            title: Director of the company
             location: Marin Golub
             text: >
               CEO and founder of SOLAROW. Born in Croatia, small country in
