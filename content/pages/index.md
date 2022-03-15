@@ -6,7 +6,7 @@ sections:
     elementId: homepage-hero-1
     colors: colors-a
     title: Welcome to the future of equipment
-    subtitle: 'One platform, one community.'
+    subtitle: 'One sunshine, millions of batteries charged .'
     actions:
       - type: Button
         label: Get Started
