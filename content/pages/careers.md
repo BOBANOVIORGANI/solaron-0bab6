@@ -41,7 +41,7 @@ sections:
       gaps, and helping each other.
 
     name: Team
-    title: Someone from the team
+    title: Team members
     styles:
       self:
         height: auto
