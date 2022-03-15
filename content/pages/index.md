@@ -327,7 +327,7 @@ sections:
           products you purchased. Shipping is simple, you will get order code
           what you will be able to track, and when that time come, you will get
           your product.
-      - question: How is this different from what we have today?
+      - question: I have more questions.
         answer: >-
           At the office, working together is often a distruction, on remote, it
           could be motivation. At the office, working together is often a
