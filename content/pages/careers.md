@@ -4,7 +4,7 @@ layout: PageLayout
 sections:
   - elementId: ''
     colors: colors-h
-    title: About us
+    title: About our team
     subtitle: Everything about team SOLAROW.
     media:
       type: ImageBlock
