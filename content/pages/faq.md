@@ -12,7 +12,7 @@ sections:
           could be motivation, At the office, working together is often a
           distruction, on remote, it could be motivation, At the office, working
           together is often a distruction, on remote, it could be motivation
-      - question: How is this different from what we have today?
+      - question: What is SolarPower B1?
         answer: >-
           At the office, working together is often a distruction, on remote, it
           could be motivation, At the office, working together is often a
