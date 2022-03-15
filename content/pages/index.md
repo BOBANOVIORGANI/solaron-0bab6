@@ -306,11 +306,15 @@ sections:
           additions for smartphone. Company is found in 2022, and since then,
           they are producing smart additions.
       - question: What is Solar Power?
-        answer: >-
-          At the office, working together is often a distruction, on remote, it
-          could be motivation, At the office, working together is often a
-          distruction, on remote, it could be motivation, At the office, working
-          together is often a distruction, on remote, it could be motivation
+        answer: >
+          SolarPower B1 is wireless powerbank that works on concept that you
+          don't always need to fully charge PowerBank in home, but you can let
+          sun to the job. Solar Power B1 has one big solar panel on the back
+          side of PowerBank, and from the other side, it has wireless charging
+          coil with magnets to attach your smartphone what support wireless
+          charging. It also has USB slots for charging your devices
+          non-wirelessly. The PowerBank itself will charge whenever it gets
+          enough sun. 
       - question: How is this different from what we have today?
         answer: >-
           At the office, working together is often a distruction, on remote, it
