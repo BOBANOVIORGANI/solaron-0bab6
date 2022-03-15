@@ -24,13 +24,6 @@ sections:
         label: BUY NOW
         url: /
         style: primary
-      - type: Link
-        label: Watch Video
-        url: /
-        style: link
-        showIcon: true
-        icon: playCircle
-        iconPosition: left
     media:
       type: ImageBlock
       url: /images/HTB1nsPlagvD8KJjSsplq6yIEFXaP.jpg
