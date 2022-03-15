@@ -137,9 +137,9 @@ sections:
     colors: colors-f
     backgroundSize: inset
     title: Didn't found what you wanted to?
-    text: >-
-      We might have more roles soon, and we’ll contact you if we think there
-      might be a good match
+    text: >
+      If happen that you are not satisfied or didn't find answer for your
+      question, feel free to contact us.
     form:
       type: FormBlock
       variant: variant-a
