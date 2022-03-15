@@ -34,12 +34,12 @@ sections:
         width: wide
         margin:
           - mt-10
-          - mb-10
+          - mb-20
           - ml-4
           - mr-4
         padding:
           - pt-24
-          - pb-16
+          - pb-10
           - pl-16
           - pr-16
         justifyContent: center
