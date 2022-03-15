@@ -316,11 +316,11 @@ sections:
           non-wirelessly. The PowerBank itself will charge whenever it gets
           enough sun. 
       - question: Shopping on SOLAROW.COM
-        answer: >-
-          At the office, working together is often a distruction, on remote, it
-          could be motivation, At the office, working together is often a
-          distruction, on remote, it could be motivation, At the office, working
-          together is often a distruction, on remote, it could be motivation
+        answer: >
+          Shopping is simple. Like any other webstore. You just need to choose
+          your preferred product, and then enter the shipping information and
+          payment method. Shopping and checkout are secure. We are not storing
+          your payment information anywhere.
       - question: How is this different from what we have today?
         answer: >-
           At the office, working together is often a distruction, on remote, it
