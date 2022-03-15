@@ -301,11 +301,10 @@ sections:
     title: Need Answers?
     items:
       - question: What is SOLAROW?
-        answer: >-
-          At the office, working together is often a distruction, on remote, it
-          could be motivation, At the office, working together is often a
-          distruction, on remote, it could be motivation, At the office, working
-          together is often a distruction, on remote, it could be motivation
+        answer: >
+          SOLAROW is tech equipment company who is specialised for solar
+          additions for smartphone. Company is found in 2022, and since then,
+          they are producing smart additions.
       - question: How is this different from what we have today?
         answer: >-
           At the office, working together is often a distruction, on remote, it
