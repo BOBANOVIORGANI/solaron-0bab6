@@ -161,9 +161,8 @@ sections:
   - elementId: ''
     colors: colors-a
     title: A great product that we’re proud of
-    text: >
-      Share WIP, comment on each other’s work, approve what’s ready to go, ship
-      together
+    text: |
+      The newest and first wireless solar PowerBank from SOLAROW.
     actions:
       - type: Button
         label: Get Started
