@@ -321,7 +321,7 @@ sections:
           your preferred product, and then enter the shipping information and
           payment method. Shopping and checkout are secure. We are not storing
           your payment information anywhere.
-      - question: Shipping and refund policy
+      - question: Shipping and refund policy.
         answer: >
           Unfortunately, there is no refund policy so you can't get refund for
           products you purchased. Shipping is simple, you will get order code
