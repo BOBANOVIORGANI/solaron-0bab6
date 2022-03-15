@@ -251,9 +251,7 @@ sections:
   - elementId: ''
     colors: colors-a
     variant: variant-b
-    title: >-
-      We sometimes write things. You should read it, it might shed some light on
-      why we’re doing what we’re doing
+    title: 'We sometimes write things, sometimes design, and even programming.'
     actions: []
     posts:
       - content/pages/blog/post-four.md
