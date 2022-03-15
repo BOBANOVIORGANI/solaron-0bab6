@@ -190,8 +190,8 @@ sections:
           - ml-0
           - mr-0
         padding:
-          - pt-10
-          - pb-24
+          - pt-24
+          - pb-10
           - pr-4
           - pl-4
         alignItems: center
