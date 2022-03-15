@@ -8,10 +8,6 @@ sections:
     title: Welcome to the future of equipment
     subtitle: 'One sunshine, millions of batteries charged .'
     actions:
-      - type: Button
-        label: Get Started
-        url: 'https://www.stackbit.com/'
-        style: primary
       - type: Link
         label: Learn More
         url: /
