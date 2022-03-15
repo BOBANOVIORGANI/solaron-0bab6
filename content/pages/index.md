@@ -420,8 +420,8 @@ sections:
         height: auto
         width: wide
         margin:
-          - mt-24
-          - mb-3
+          - mt-3
+          - mb-24
           - ml-4
           - mr-4
         padding:
