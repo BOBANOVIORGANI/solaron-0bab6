@@ -32,7 +32,7 @@ sections:
           Unfortunately, there is no refund policy so you can't get refund for
           products you purchased or return it, we recommend you to double check
           and think before you shop here to not get disapointed.
-      - question: Privacy Policy?
+      - question: Privacy Policy
         answer: >
           It's simple. Everything you enter as detail like shipping and payment
           information is not stored. We are only having shipping information
