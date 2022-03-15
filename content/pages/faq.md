@@ -39,11 +39,9 @@ sections:
           when we need to ship you wanted product and from payment info, we just
           get the information what type of payment method did you use.
       - question: Terms of Service
-        answer: >-
-          At the office, working together is often a distruction, on remote, it
-          could be motivation, At the office, working together is often a
-          distruction, on remote, it could be motivation, At the office, working
-          together is often a distruction, on remote, it could be motivation
+        answer: >
+          We are providing service to you in form of offering the best shopping
+          experience we can. We also provide safe checkout to all customers.
       - question: How is this different from what we have today?
         answer: >-
           At the office, working together is often a distruction, on remote, it
