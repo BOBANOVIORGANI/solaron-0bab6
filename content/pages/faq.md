@@ -33,11 +33,11 @@ sections:
           products you purchased or return it, we recommend you to double check
           and think before you shop here to not get disapointed.
       - question: Privacy Policy?
-        answer: >-
-          At the office, working together is often a distruction, on remote, it
-          could be motivation, At the office, working together is often a
-          distruction, on remote, it could be motivation, At the office, working
-          together is often a distruction, on remote, it could be motivation
+        answer: >
+          It's simple. Everything you enter as detail like shipping and payment
+          information is not stored. We are only having shipping information
+          when we need to ship you wanted product and from payment info, we just
+          get the information what type of payment method did you use.
       - question: How is this different from what we have today?
         answer: >-
           At the office, working together is often a distruction, on remote, it
