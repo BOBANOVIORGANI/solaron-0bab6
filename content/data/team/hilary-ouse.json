@@ -3,7 +3,7 @@
     "firstName": "Marin",
     "lastName": "Golub",
     "role": "CEO",
-    "bio": "This feature is the thing you were missing in your workflow, thank god we have it for you to use.",
+    "bio": "CEO and director of the company. He devised SOLAROW in 2022.\n",
     "image": {
         "type": "ImageBlock",
         "url": "/images/hilary-ouse.jpg",
