@@ -167,7 +167,7 @@ sections:
         elementId: hero-main-button
       - type: Link
         label: Learn More
-        url: /
+        url: /solarpower-b1
         showIcon: true
         icon: arrowRight
         iconPosition: right
