@@ -50,7 +50,7 @@ sections:
         justifyContent: flex-start
   - colors: colors-a
     elementId: ''
-    title: Remote doesn’t mean alone. Here are so great features
+    title: Why you should get SolarPower
     subtitle: >-
       These are all excellent features that will provide exactly the things
       you’re looking for.
