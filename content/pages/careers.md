@@ -41,7 +41,7 @@ sections:
       gaps, and helping each other.
 
     name: Team
-    title: Team members
+    title: SOLAROW team members
     styles:
       self:
         height: auto
