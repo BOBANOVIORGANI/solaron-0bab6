@@ -185,7 +185,7 @@ sections:
         height: auto
         width: wide
         margin:
-          - mt-24
+          - mt-10
           - mb-10
           - ml-0
           - mr-0
