@@ -373,7 +373,7 @@ sections:
           Such a great experience to be using this product. It really helped
           with what I needed help with.
         name: Marin Golub
-        title: Happy customer
+        title: CEO of SOLAROW
         image:
           type: ImageBlock
           url: /images/carla.jpg
