@@ -3,7 +3,7 @@
     "favicon": "/images/favicon.svg",
     "header": {
         "headerVariant": "variant-c",
-        "primaryColors": "colors-d",
+        "primaryColors": "colors-a",
         "secondaryColors": "colors-f",
         "title": "SOLAROW",
         "isTitleVisible": true,
