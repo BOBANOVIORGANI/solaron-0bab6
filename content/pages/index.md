@@ -204,9 +204,8 @@ sections:
   - elementId: ''
     colors: colors-a
     title: Multiple colors
-    text: >
-      Share WIP, comment on each other’s work, approve what’s ready to go, ship
-      together
+    text: |
+      Colors for everyone, get yourself SolarPower B1 with your prefered color.
     actions:
       - type: Button
         label: Get Started
