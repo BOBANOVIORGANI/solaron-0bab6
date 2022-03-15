@@ -1,5 +1,5 @@
 ---
-title: Careers
+title: About
 layout: PageLayout
 sections:
   - elementId: ''
