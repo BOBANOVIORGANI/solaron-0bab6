@@ -27,7 +27,7 @@ sections:
     media:
       type: ImageBlock
       url: /images/HTB1nsPlagvD8KJjSsplq6yIEFXaP.jpg
-      altText: Team meeting
+      altText: PowerBank
     styles:
       self:
         height: auto
