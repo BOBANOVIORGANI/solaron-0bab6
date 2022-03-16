@@ -10,9 +10,8 @@ sections:
     colors: colors-a
     backgroundSize: full
     title: SolarPower B1
-    text: >-
-      The Stackbit theme is flexible and scalable to every need. It can manage
-      any layout and any screen.
+    text: |
+      Introducing the future of smart charging.
     actions:
       - type: Button
         label: Try it now
