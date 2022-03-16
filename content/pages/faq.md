@@ -88,4 +88,5 @@ sections:
     type: FaqSection
 metaTitle: FAQ
 addTitleSuffix: true
+socialImage: /images/SOLAROW (1).png
 ---
