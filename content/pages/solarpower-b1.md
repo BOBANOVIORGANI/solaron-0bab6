@@ -191,7 +191,7 @@ sections:
         caption: SolarPower B1 Cake Pink
       - type: ImageBlock
         url: /images/HTB1fAxxSXXXXXaSXFXXq6xXFXXXR.jpg
-        altText: Image four
+        altText: 'B1 '
         caption: Image four caption
     spacing: 1
     columns: 2
