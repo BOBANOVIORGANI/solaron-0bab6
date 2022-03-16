@@ -84,8 +84,9 @@ sections:
   - elementId: ''
     colors: colors-a
     title: Multiple colors
-    text: |
-      Colors for everyone, get yourself SolarPower B1 with your prefered color.
+    text: >
+      Colours for everyone, get yourself SolarPower B1 with your preferred
+      colour body. Available in six colours 
     actions: []
     media:
       type: ImageBlock
