@@ -83,7 +83,7 @@ sections:
     type: FeatureHighlightSection
   - elementId: ''
     colors: colors-a
-    title: Multiple colors
+    title: 'Your colour, your thing'
     text: >
       Colours for everyone, get yourself SolarPower B1 with your preferred
       colour body. Available in six colours for everyone's pocket.
