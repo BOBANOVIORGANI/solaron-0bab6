@@ -1,5 +1,5 @@
 ---
-metaTitle: null
+metaTitle: SolarPower B1
 metaDescription: null
 addTitleSuffix: true
 socialImage: null
