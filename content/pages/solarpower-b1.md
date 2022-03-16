@@ -192,7 +192,7 @@ sections:
       - type: ImageBlock
         url: /images/HTB1fAxxSXXXXXaSXFXXq6xXFXXXR.jpg
         altText: SolarPower B1 Magic Purp
-        caption: SolarPower B1 Magic Purp
+        caption: B1 Magic Purp
       - url: /images/HTB1f2dCSXXXXXc3XpXXq6xXFXXXK.jpg
         altText: B1 Coal Black
         caption: SolarPower B1 Coal Black
