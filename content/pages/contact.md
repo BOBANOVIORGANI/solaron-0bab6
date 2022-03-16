@@ -42,13 +42,6 @@ sections:
           label: Sign me up to receive updates
           isRequired: false
           width: full
-        - name: text
-          label: Text
-          hideLabel: false
-          placeholder: Enter message
-          isRequired: true
-          width: full
-          type: TextFormControl
         - name: description
           label: Description
           hideLabel: false
