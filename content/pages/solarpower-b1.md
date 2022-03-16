@@ -63,7 +63,7 @@ sections:
           self:
             textAlign: center
       - type: FeaturedItem
-        title: Solar
+        title: "Solar\_replenishment"
         text: >-
           Learn how top tech companies have learned working remote using our
           product.
