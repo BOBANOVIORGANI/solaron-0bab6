@@ -113,6 +113,16 @@
                 "type": "Link"
             },
             {
+                "label": "CONTACT",
+                "altText": "",
+                "url": "/contact",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": "",
+                "type": "Link"
+            },
+            {
                 "type": "Link",
                 "label": "CAREERS AND ABOUT",
                 "url": "/careers",
@@ -123,16 +133,6 @@
                 "label": "FAQ",
                 "url": "/faq",
                 "altText": ""
-            },
-            {
-                "label": "CONTACT",
-                "altText": "",
-                "url": "/contact",
-                "showIcon": false,
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "elementId": "",
-                "type": "Link"
             }
         ],
         "socialLinks": [
