@@ -179,7 +179,7 @@ sections:
     images:
       - type: ImageBlock
         url: /images/HTB1oPVlSXXXXXaFXVXXq6xXFXXXB-c2515f29.jpg
-        altText: Image one
+        altText: B1 Sea Blue
         caption: Image one caption
       - type: ImageBlock
         url: /images/HTB1SXNwSXXXXXa_XFXXq6xXFXXXX.jpg
