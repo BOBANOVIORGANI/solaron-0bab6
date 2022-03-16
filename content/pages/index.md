@@ -6,7 +6,7 @@ sections:
     elementId: homepage-hero-1
     colors: colors-a
     title: Welcome to the future
-    subtitle: 'One sunshine, millions of batteries charged .'
+    subtitle: 'Charge smart, and don''t worry .'
     actions:
       - type: Link
         label: Learn More
