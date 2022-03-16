@@ -86,7 +86,7 @@ sections:
     title: Multiple colors
     text: >
       Colours for everyone, get yourself SolarPower B1 with your preferred
-      colour body. Available in six colours for every pocket.
+      colour body. Available in six colours for everyone's pocket.
     actions: []
     media:
       type: ImageBlock
