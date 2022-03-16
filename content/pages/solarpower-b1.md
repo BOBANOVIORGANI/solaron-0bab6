@@ -174,7 +174,7 @@ sections:
     type: CtaSection
   - colors: colors-a
     elementId: ''
-    title: Gallery
+    title: Variants
     subtitle: PowerBank colors what you can get
     images:
       - type: ImageBlock
