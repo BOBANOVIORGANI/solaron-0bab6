@@ -55,6 +55,59 @@ sections:
       actions:
         justifyContent: flex-start
     type: CtaSection
+  - elementId: ''
+    colors: colors-a
+    backgroundSize: full
+    title: Get the PowerBank
+    subtitle: ''
+    badge:
+      label: SolarPower B1
+      elementId: ''
+      styles:
+        self:
+          textAlign: left
+    text: >
+      Why you should get this PowerBank over the others you might ask? Well, for
+      first, this product is not designed for exact smartphone linup or brand,
+      any smartphone will charge at max speed that device support. Also, for
+      this price, you get some of the amazing features that you won't get with
+      most of the other PowerBanks, like already mentioned, solar replenishment
+      of the PowerBank, and more colours than regular black and white.
+    actions:
+      - type: Button
+        label: BUY
+        url: /
+        style: primary
+    media:
+      type: ImageBlock
+      url: /images/HTB1nsPlagvD8KJjSsplq6yIEFXaP.jpg
+      altText: Hero image
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-12
+          - pb-12
+          - pl-4
+          - pr-4
+        alignItems: center
+        justifyContent: center
+        flexDirection: row
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      text:
+        textAlign: left
+      actions:
+        justifyContent: flex-start
+    type: FeatureHighlightSection
   - colors: colors-h
     elementId: ''
     title: Why you should get it?
@@ -119,59 +172,6 @@ sections:
       actions:
         justifyContent: center
     type: FeaturedItemsSection
-  - elementId: ''
-    colors: colors-a
-    backgroundSize: full
-    title: Get the PowerBank
-    subtitle: ''
-    badge:
-      label: SolarPower B1
-      elementId: ''
-      styles:
-        self:
-          textAlign: left
-    text: >
-      Why you should get this PowerBank over the others you might ask? Well, for
-      first, this product is not designed for exact smartphone linup or brand,
-      any smartphone will charge at max speed that device support. Also, for
-      this price, you get some of the amazing features that you won't get with
-      most of the other PowerBanks, like already mentioned, solar replenishment
-      of the PowerBank, and more colours than regular black and white.
-    actions:
-      - type: Button
-        label: BUY
-        url: /
-        style: primary
-    media:
-      type: ImageBlock
-      url: /images/HTB1nsPlagvD8KJjSsplq6yIEFXaP.jpg
-      altText: Hero image
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-12
-          - pb-12
-          - pl-4
-          - pr-4
-        alignItems: center
-        justifyContent: center
-        flexDirection: row
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
-    type: FeatureHighlightSection
   - colors: colors-a
     elementId: ''
     title: Gallery
