@@ -75,7 +75,7 @@ sections:
           self:
             textAlign: center
       - type: FeaturedItem
-        title: Focused
+        title: Thin design
         text: >-
           Learn how top tech companies have learned working remote using our
           product.
