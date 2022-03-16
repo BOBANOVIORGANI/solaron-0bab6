@@ -1,5 +1,5 @@
 ---
-metaTitle: null
+metaTitle: 'Terms '
 metaDescription: null
 addTitleSuffix: true
 socialImage: null
