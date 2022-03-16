@@ -48,8 +48,9 @@ sections:
     colors: colors-a
     title: The product that we’re proud of
     text: >
-      Solid 10000mAh with it's thin body you can charge almost any device and
-      forget that you have it in your hand.
+      Solid 10000mAh will charge any of your devices up to three times in a row.
+      Solid metal housing and thin body will make you forgot that you have
+      PowerBank in your hand or pocket.
     actions: []
     media:
       type: ImageBlock
