@@ -234,9 +234,9 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: Sign up today
-    text: >-
-      Sign up your team today to be the first to try out our new product to
-      increase your team's productivity.
+    text: >
+      Be notified about newest products, promotions, and other tech news from
+      our website.
     form:
       type: FormBlock
       variant: variant-b
