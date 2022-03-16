@@ -47,8 +47,9 @@ sections:
   - elementId: ''
     colors: colors-a
     title: A great product that we’re proud of
-    text: |
-      The newest and first wireless solar PowerBank from SOLAROW.
+    text: >
+      Solid 10000mAh with it's thin body you can charge almost any device and
+      forget that you have it in your hand.
     actions: []
     media:
       type: ImageBlock
