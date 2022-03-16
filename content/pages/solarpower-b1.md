@@ -191,7 +191,7 @@ sections:
         caption: B1 Cake Pink
       - type: ImageBlock
         url: /images/HTB1fAxxSXXXXXaSXFXXq6xXFXXXR.jpg
-        altText: B1 Magic Purp
+        altText: SolarPower B1 Magic Purp
         caption: SolarPower B1 Magic Purp
       - url: /images/HTB1f2dCSXXXXXc3XpXXq6xXFXXXK.jpg
         altText: B1 Coal Black
