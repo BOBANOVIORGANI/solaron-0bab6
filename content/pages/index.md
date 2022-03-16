@@ -230,4 +230,5 @@ sections:
     type: FeaturedItemsSection
 socialImage: /images/SOLAROW (1).png
 metaTitle: Home
+metaDescription: Get the new
 ---
