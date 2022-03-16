@@ -232,7 +232,5 @@ socialImage: /images/SOLAROW (1).png
 metaTitle: Home
 metaDescription: Get the new PowerBank and say goodbye to 0%. Since 2022.
 addTitleSuffix: true
-metaTags:
-  - property: 'og:title'
-    content: ''
+metaTags: []
 ---
