@@ -49,11 +49,6 @@ sections:
           label: Sign me up to receive updates
           isRequired: false
           width: full
-        - name: updates
-          label: Sign me up to receive updates
-          isRequired: false
-          width: full
-          type: CheckboxFormControl
       submitLabel: Send Message
     media: null
     styles:
