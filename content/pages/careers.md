@@ -38,8 +38,28 @@ sections:
     colors: colors-a
     backgroundSize: full
     text: >
-      The Stackbit theme is flexible and scalable to every need. It can manage
-      any layout and any screen.
+      Welcome to SOLAROW, your number one source for all things equipment. We're
+      dedicated to giving you the very best of PowerBanks, with a focus on
+      SolarPower B1.
+
+
+      Founded in 2022. by Marin Golub, SOLAROW has come a long way from its
+      beginnings in Zagreb. When Marin first started out, his passion for easier
+      interaction with gadgets drove them to the office so that SOLAROW can
+      offer you good value products. We now serve customers to all countries
+      around the world, and are thrilled that we're able to turn our passion
+      into our own website.
+
+
+      We hope you enjoy our products as much as we enjoy offering them to you.
+      If you have any questions or comments, please don't hesitate to contact
+      us.
+
+
+      Sincerely,
+
+
+      Marin
     actions: []
     backgroundImage: null
     styles:
