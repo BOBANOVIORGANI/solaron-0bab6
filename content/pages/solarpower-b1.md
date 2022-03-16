@@ -192,7 +192,7 @@ sections:
       - type: ImageBlock
         url: /images/HTB1fAxxSXXXXXaSXFXXq6xXFXXXR.jpg
         altText: B1 Magic Purple
-        caption: Image four caption
+        caption: SolarPower B1 Magic Purple
     spacing: 1
     columns: 2
     aspectRatio: '1:1'
