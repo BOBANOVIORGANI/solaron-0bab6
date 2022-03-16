@@ -37,6 +37,11 @@ sections:
           placeholder: Your email
           isRequired: 'true'
           width: 1/2
+        - type: CheckboxFormControl
+          name: updates
+          label: Sign me up to receive updates
+          isRequired: false
+          width: full
         - name: text
           label: Text
           hideLabel: false
@@ -44,11 +49,6 @@ sections:
           isRequired: true
           width: full
           type: TextFormControl
-        - type: CheckboxFormControl
-          name: updates
-          label: Sign me up to receive updates
-          isRequired: false
-          width: full
         - name: description
           label: Description
           hideLabel: false
