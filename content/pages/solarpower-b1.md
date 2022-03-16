@@ -126,7 +126,7 @@ sections:
   - elementId: ''
     colors: colors-a
     backgroundSize: full
-    title: SolarPower B1
+    title: About B1
     text: >
       Introducing the future of smart charging.
 
