@@ -1,6 +1,6 @@
 ---
 metaTitle: Country list
-metaDescription: 'This is a list of the country where '
+metaDescription: This is a list of the country where we are shipping
 addTitleSuffix: true
 socialImage: /images/SOLAROW (1).png
 metaTags: []
