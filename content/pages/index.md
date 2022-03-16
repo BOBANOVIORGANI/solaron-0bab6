@@ -49,13 +49,7 @@ sections:
     title: A great product that we’re proud of
     text: |
       The newest and first wireless solar PowerBank from SOLAROW.
-    actions:
-      - type: Link
-        label: Learn More
-        url: /solarpower-b1
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
+    actions: []
     media:
       type: ImageBlock
       url: /images/1dc3456ef88ac0593d8166693be788f92dc58866_original.jpeg
