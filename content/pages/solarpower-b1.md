@@ -182,11 +182,6 @@ sections:
         label: BUY
         url: /
         style: primary
-    media:
-      type: ImageBlock
-      url: /images/1647368293288.png
-      altText: Image alt text
-      caption: Image caption
     backgroundImage: null
     styles:
       self:
