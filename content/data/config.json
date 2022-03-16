@@ -103,6 +103,16 @@
                 "type": "Link"
             },
             {
+                "label": "COUNTRY LIST",
+                "altText": "",
+                "url": "/country-list",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": "",
+                "type": "Link"
+            },
+            {
                 "type": "Link",
                 "label": "CAREERS AND ABOUT",
                 "url": "/careers",
@@ -118,16 +128,6 @@
                 "label": "CONTACT",
                 "altText": "",
                 "url": "/contact",
-                "showIcon": false,
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "elementId": "",
-                "type": "Link"
-            },
-            {
-                "label": "COUNTRY LIST",
-                "altText": "",
-                "url": "/country-list",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
