@@ -97,7 +97,7 @@ sections:
         alignItems: center
         justifyContent: center
         flexDirection: row
-        borderColor: border-primary
+        borderColor: border-complementary
         borderWidth: 0
       title:
         textAlign: left
