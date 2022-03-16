@@ -1,6 +1,6 @@
 ---
 metaTitle: Country list
-metaDescription: null
+metaDescription: 'This is a list of the country where '
 addTitleSuffix: true
 socialImage: /images/SOLAROW (1).png
 metaTags: []
