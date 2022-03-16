@@ -25,6 +25,16 @@
                 "label": "FAQ",
                 "url": "/faq",
                 "altText": ""
+            },
+            {
+                "label": "Learn more",
+                "altText": "",
+                "url": "/",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": "",
+                "type": "Link"
             }
         ],
         "secondaryLinks": [],
