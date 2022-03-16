@@ -10,7 +10,7 @@ sections:
     colors: colors-a
     backgroundSize: full
     title: SolarPower B1
-    text: >+
+    text: >
       Introducing the future of smart charging.
 
 
@@ -18,17 +18,17 @@ sections:
       wirelessly and plug in with a wired dock. It has a 100% efficiency rating
       to guarantee a secure and reliable charge. And because it is a PowerBank,
       you can charge the SolarPower B1 and charge your phone simultaneously for
-      up to six devices at a time. “Life on the go is always a challenge. For
-      some, it’s being able to charge one’s devices wirelessly. For others
+      up to six devices at a time. “Life on the go is always a challenge''. For
+      some, it’s being able to charge one’s devices wirelessly. For others it's
+      something second.
 
 
       Don’t be put in the dark just because you ran out of battery. Now you can
       have your power and backup your phone, tablet or other gadgets with this
-      solar-powered battery bank. With this powerbank, you never have to worry
-      about running out of battery power for your devices again. This power bank
-      comes in six colors and charges in seconds. Comes with a unique LED
+      solar-powered battery bank. With this PowerBank, you never have to worry
+      about running out of battery power for your devices again. This PowerBank
+      comes in six colorus and charges in seconds. Comes with a unique LED
       flashlight.
-
     actions:
       - type: Button
         label: Try it now
