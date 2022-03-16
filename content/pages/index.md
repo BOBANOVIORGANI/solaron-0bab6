@@ -50,7 +50,7 @@ sections:
     text: >
       Solid 10000mAh will charge any of your devices up to three times in a row.
       Solid metal housing and thin body will make you forgot that you have
-      PowerBank in your hand or pocket.
+      PowerBank with yourself.
     actions: []
     media:
       type: ImageBlock
