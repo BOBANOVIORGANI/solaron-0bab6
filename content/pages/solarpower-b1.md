@@ -123,9 +123,8 @@ sections:
     colors: colors-a
     backgroundSize: full
     title: Get the PowerBank
-    text: >-
-      The Stackbit theme is flexible and scalable to every need. It can manage
-      any layout and any screen.
+    text: |
+      Get the PowerBank
     actions:
       - type: Button
         label: BUY
