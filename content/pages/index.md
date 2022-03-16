@@ -6,7 +6,7 @@ sections:
     elementId: homepage-hero-1
     colors: colors-a
     title: Welcome to the future
-    subtitle: 'Charge smart, and don''t worry .'
+    subtitle: "Charge smart, worry\_ less."
     actions:
       - type: Link
         label: Learn More
