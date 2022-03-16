@@ -186,4 +186,5 @@ sections:
       subtitle:
         textAlign: center
     type: JobsSection
+metaTitle: About
 ---
