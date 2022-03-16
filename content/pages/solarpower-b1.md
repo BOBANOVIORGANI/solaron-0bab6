@@ -172,7 +172,7 @@ sections:
     title: Get the PowerBank
     subtitle: ''
     badge:
-      label: This is the badge
+      label: SolarPower B1
       elementId: ''
       styles:
         self:
