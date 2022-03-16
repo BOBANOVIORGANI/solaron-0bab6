@@ -52,9 +52,8 @@ sections:
     items:
       - type: FeaturedItem
         title: Fast charging
-        text: >-
-          Learn how top tech companies have learned working remote using our
-          product.
+        text: |
+          You can charge your phone wirelessly up to 15W, and wired up to 30W.
         featuredImage:
           type: ImageBlock
           url: /images/faster.svg
