@@ -231,7 +231,7 @@ sections:
         justifyContent: flex-start
     type: FeaturedItemsSection
   - elementId: ''
-    colors: colors-f
+    colors: colors-a
     backgroundSize: full
     title: Sign up today
     text: >
