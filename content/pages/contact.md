@@ -61,6 +61,7 @@ sections:
         justifyContent: center
         flexDirection: row
         borderColor: border-primary
+        borderWidth: 1
       title:
         textAlign: left
       text:
