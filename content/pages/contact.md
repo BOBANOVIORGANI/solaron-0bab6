@@ -2,7 +2,7 @@
 metaTitle: Contact us
 metaDescription: null
 addTitleSuffix: false
-socialImage: null
+socialImage: /images/SOLAROW (1).png
 metaTags: []
 title: Contact us
 sections:
