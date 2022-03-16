@@ -194,7 +194,7 @@ sections:
         altText: B1 Magic Purp
         caption: SolarPower B1 Magic Purp
       - url: /images/HTB1f2dCSXXXXXc3XpXXq6xXFXXXK.jpg
-        altText: B1
+        altText: 'B1 '
         caption: Caption of the image
         elementId: ''
         styles:
