@@ -1,7 +1,7 @@
 ---
 metaTitle: Contact us
 metaDescription: null
-addTitleSuffix: true
+addTitleSuffix: false
 socialImage: null
 metaTags: []
 title: Contact us
