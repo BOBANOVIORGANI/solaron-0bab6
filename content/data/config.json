@@ -27,18 +27,7 @@
                 "altText": ""
             }
         ],
-        "secondaryLinks": [
-            {
-                "label": "SP B1",
-                "altText": "",
-                "url": "/solarpower-b1",
-                "showIcon": false,
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "elementId": "",
-                "type": "Link"
-            }
-        ],
+        "secondaryLinks": [],
         "styles": {
             "self": {
                 "width": "narrow",
