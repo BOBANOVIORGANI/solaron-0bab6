@@ -1,6 +1,6 @@
 ---
 metaTitle: Contact us
-metaDescription: null
+metaDescription: Contact and our support team will reply as soon as possible. Since 2022.
 addTitleSuffix: false
 socialImage: /images/SOLAROW (1).png
 metaTags: []
