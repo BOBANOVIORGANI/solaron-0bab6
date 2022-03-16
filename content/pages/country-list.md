@@ -9,9 +9,7 @@ sections:
   - type: TextSection
     colors: colors-a
     title: Our shipping area
-    subtitle: >-
-      Start adding sections by clicking the + button on the page or though the
-      sidebar.
+    subtitle: Place where you can expect your product.
     styles:
       self:
         height: auto
