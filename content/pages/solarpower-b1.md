@@ -193,7 +193,7 @@ sections:
       type: ImageBlock
       url: /images/HTB1nsPlagvD8KJjSsplq6yIEFXaP.jpg
       altText: Hero image
-      media
+      media:
       type: ImageBlock
       url: /images/HTB1nsPlagvD8KJjSsplq6yIEFXaP.jpg
       altText: Hero image
