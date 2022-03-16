@@ -181,7 +181,7 @@ sections:
       - type: Button
         label: BUY
         url: /
-        style: primary 
+        style: primary
     backgroundImage: null
     styles:
       self:
