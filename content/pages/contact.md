@@ -42,7 +42,7 @@ sections:
           label: Sign me up to receive updates
           isRequired: false
           width: full
-        - name: home-address
+        - name: text
           label: Home address
           hideLabel: false
           placeholder: Your home address
