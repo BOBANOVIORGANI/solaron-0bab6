@@ -242,7 +242,7 @@ sections:
       variant: variant-b
       elementId: sign-up-form
       action: /.netlify/functions/submission_created
-      destination: contact.
+      destination: contact.solarow@gmail.com
       fields:
         - type: EmailFormControl
           name: email
