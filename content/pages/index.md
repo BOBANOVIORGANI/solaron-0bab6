@@ -46,7 +46,7 @@ sections:
         justifyContent: flex-start
   - elementId: ''
     colors: colors-a
-    title: A great product that we’re proud of
+    title: The product that we’re proud of
     text: >
       Solid 10000mAh with it's thin body you can charge almost any device and
       forget that you have it in your hand.
