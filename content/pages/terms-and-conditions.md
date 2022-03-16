@@ -1,6 +1,8 @@
 ---
 metaTitle: Terms & Conditions
-metaDescription: 'Company''s terms and conditions. These terms are her for '
+metaDescription: >-
+  Company's terms and conditions. These terms are her for understand when using
+  our service. Since 2022.
 addTitleSuffix: true
 socialImage: /images/SOLAROW (1).png
 metaTags: []
