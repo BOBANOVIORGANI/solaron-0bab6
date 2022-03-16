@@ -1,5 +1,5 @@
 ---
-metaTitle: 'Terms '
+metaTitle: Terms & Conditions
 metaDescription: null
 addTitleSuffix: true
 socialImage: null
