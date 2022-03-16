@@ -26,7 +26,7 @@ sections:
       of the PowerBank, and more colours than regular black and white.
     actions:
       - type: Button
-        label: BUY
+        label: '24.99'
         url: /solarow.bigcartel.com
         style: primary
     media:
