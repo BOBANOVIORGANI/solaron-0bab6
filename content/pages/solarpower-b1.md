@@ -175,7 +175,7 @@ sections:
   - colors: colors-a
     elementId: ''
     title: Gallery
-    subtitle: This is the subtitle
+    subtitle: PowerBank colors what you can get
     images:
       - type: ImageBlock
         url: /images/HTB1oPVlSXXXXXaFXVXXq6xXFXXXB-c2515f29.jpg
