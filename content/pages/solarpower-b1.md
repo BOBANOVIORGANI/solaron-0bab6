@@ -1,6 +1,8 @@
 ---
 metaTitle: SolarPower B1
-metaDescription: 'The newest product from SOLAROW. Great product for value with some unusual '
+metaDescription: >-
+  The newest product from SOLAROW. Great product for value with some unusual
+  features. Since 2022.
 addTitleSuffix: true
 socialImage: /images/SOLAROW (1).png
 metaTags: []
