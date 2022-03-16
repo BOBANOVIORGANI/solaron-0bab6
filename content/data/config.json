@@ -133,7 +133,7 @@
             {
                 "label": "COUNTRY LIST",
                 "altText": "",
-                "url": "/countrylist",
+                "url": "/country-list",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
