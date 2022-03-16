@@ -44,7 +44,7 @@ sections:
         justifyContent: flex-start
     type: CtaSection
   - elementId: ''
-    colors: colors-h
+    colors: colors-a
     backgroundSize: full
     title: Contact us
     text: |
