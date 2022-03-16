@@ -186,7 +186,7 @@ sections:
       of the PowerBank, and more colours than regular black and white.
     actions:
       - type: Button
-        label: Sign Up
+        label: BUY
         url: /
         style: primary
     media:
