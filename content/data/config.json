@@ -25,16 +25,6 @@
                 "label": "FAQ",
                 "url": "/faq",
                 "altText": ""
-            },
-            {
-                "label": "BUY",
-                "altText": "",
-                "url": "/",
-                "showIcon": false,
-                "iconPosition": "right",
-                "style": "primary",
-                "elementId": "",
-                "type": "Button"
             }
         ],
         "secondaryLinks": [
