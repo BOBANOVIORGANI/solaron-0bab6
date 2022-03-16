@@ -9,12 +9,6 @@
         "isTitleVisible": true,
         "primaryLinks": [
             {
-                "type": "Link",
-                "label": "ABOUT",
-                "url": "/careers",
-                "altText": ""
-            },
-            {
                 "altText": "",
                 "url": "/solarpower-b1",
                 "showIcon": false,
