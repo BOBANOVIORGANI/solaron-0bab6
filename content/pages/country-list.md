@@ -1,5 +1,5 @@
 ---
-metaTitle: null
+metaTitle: Country list
 metaDescription: null
 addTitleSuffix: true
 socialImage: null
