@@ -29,11 +29,7 @@ sections:
       about running out of battery power for your devices again. This PowerBank
       comes in six colorus and charges in seconds. Comes with a unique LED
       flashlight.
-    actions:
-      - type: Button
-        label: Try it now
-        url: /
-        style: primary
+    actions: []
     backgroundImage: null
     styles:
       self:
