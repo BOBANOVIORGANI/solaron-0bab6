@@ -45,7 +45,7 @@ sections:
     type: CtaSection
   - colors: colors-h
     elementId: ''
-    title: Remote doesn’t mean alone. Here are so great features
+    title: Why you should get it?
     subtitle: Excellent features that this PowerBank has but most don't.
     items:
       - type: FeaturedItem
