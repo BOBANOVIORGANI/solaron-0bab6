@@ -1,6 +1,6 @@
 ---
 metaTitle: Privacy Policy
-metaDescription: 'Our company''s privacy policy. Every '
+metaDescription: 'Our company''s privacy policy. Everything you '
 addTitleSuffix: true
 socialImage: /images/SOLAROW (1).png
 metaTags: []
