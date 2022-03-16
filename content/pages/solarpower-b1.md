@@ -195,7 +195,7 @@ sections:
         caption: SolarPower B1 Magic Purp
       - url: /images/HTB1f2dCSXXXXXc3XpXXq6xXFXXXK.jpg
         altText: B1 Coal Black
-        caption: Caption of the image
+        caption: SolarPower B1 Coal Black
         elementId: ''
         styles:
           self:
