@@ -183,7 +183,7 @@ sections:
         caption: B1 Sea Blue
       - type: ImageBlock
         url: /images/HTB1SXNwSXXXXXa_XFXXq6xXFXXXX.jpg
-        altText: B1 Gold
+        altText: SolarPower B1 Gold
         caption: SolarPower B1 Gold
       - type: ImageBlock
         url: /images/HTB181hqSXXXXXcTXFXXq6xXFXXXs.jpg
