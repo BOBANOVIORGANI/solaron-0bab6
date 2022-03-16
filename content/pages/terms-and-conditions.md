@@ -2,7 +2,7 @@
 metaTitle: Terms & Conditions
 metaDescription: null
 addTitleSuffix: true
-socialImage: null
+socialImage: /images/SOLAROW (1).png
 metaTags: []
 title: Terms & Conditions
 sections:
