@@ -203,7 +203,7 @@ sections:
         type: ImageBlock
       - url: >-
           https://assets.stackbit.com/components/images/default/default-image.png
-        altText: B1 Silver
+        altText: B1 Shiny Silver
         caption: Caption of the image
         elementId: ''
         styles:
