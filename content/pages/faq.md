@@ -86,4 +86,5 @@ sections:
       actions:
         justifyContent: flex-start
     type: FaqSection
+metaTitle: FAQ
 ---
