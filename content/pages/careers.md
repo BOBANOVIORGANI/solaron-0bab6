@@ -1,5 +1,5 @@
 ---
-title: Carrers and About
+title: Carrer and About
 layout: PageLayout
 sections:
   - elementId: ''
