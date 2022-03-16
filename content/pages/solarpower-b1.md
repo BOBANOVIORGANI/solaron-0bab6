@@ -27,7 +27,7 @@ sections:
     actions:
       - type: Button
         label: '24.99'
-        url: /solarow.bigcartel.com
+        url: '/https://solarow.bigcartel.com/'
         style: primary
     media:
       type: ImageBlock
