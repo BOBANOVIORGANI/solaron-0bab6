@@ -87,4 +87,5 @@ sections:
         justifyContent: flex-start
     type: FaqSection
 metaTitle: FAQ
+addTitleSuffix: true
 ---
