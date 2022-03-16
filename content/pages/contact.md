@@ -43,7 +43,7 @@ sections:
           isRequired: false
           width: full
         - name: text
-          label: Enter message
+          label: Text
           hideLabel: false
           placeholder: Enter message
           isRequired: false
