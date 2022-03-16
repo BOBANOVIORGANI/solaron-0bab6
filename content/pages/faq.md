@@ -89,5 +89,5 @@ sections:
 metaTitle: FAQ
 addTitleSuffix: true
 socialImage: /images/SOLAROW (1).png
-metaDescription: Every question you might wanna ask. Still d
+metaDescription: 'Every question you might wanna ask, but if sti'
 ---
