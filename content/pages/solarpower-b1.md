@@ -63,9 +63,8 @@ sections:
             textAlign: center
       - type: FeaturedItem
         title: "Solar\_replenishment"
-        text: >-
-          Learn how top tech companies have learned working remote using our
-          product.
+        text: |
+          The PowerBank can charge itself by solar energy, and sunshine.
         featuredImage:
           type: ImageBlock
           url: /images/smarter.svg
