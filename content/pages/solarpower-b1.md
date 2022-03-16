@@ -185,7 +185,7 @@ sections:
     media:
       type: ImageBlock
       url: /images/1647368293288.png
-      ltText: Image alt text
+      altText: Image alt text
       caption: Image caption
     backgroundImage: null
     styles:
