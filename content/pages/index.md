@@ -229,4 +229,5 @@ sections:
         justifyContent: flex-start
     type: FeaturedItemsSection
 socialImage: /images/SOLAROW (1).png
+metaTitle: Home
 ---
