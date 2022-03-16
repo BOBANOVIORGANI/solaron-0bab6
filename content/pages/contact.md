@@ -43,7 +43,7 @@ sections:
           isRequired: false
           width: full
         - name: text
-          label: Home address
+          label: Enter message
           hideLabel: false
           placeholder: Your home address
           isRequired: false
