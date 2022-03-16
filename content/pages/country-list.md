@@ -8,7 +8,7 @@ title: Countries in our range
 sections:
   - type: TextSection
     colors: colors-a
-    title: This in an empty page
+    title: Our shipping area
     subtitle: >-
       Start adding sections by clicking the + button on the page or though the
       sidebar.
