@@ -193,6 +193,15 @@ sections:
         url: /images/HTB1fAxxSXXXXXaSXFXXq6xXFXXXR.jpg
         altText: B1 Magic Purp
         caption: SolarPower B1 Magic Purp
+      - url: >-
+          https://assets.stackbit.com/components/images/default/default-image.png
+        altText: altText of the image
+        caption: Caption of the image
+        elementId: ''
+        styles:
+          self:
+            opacity: 100
+        type: ImageBlock
     spacing: 1
     columns: 2
     aspectRatio: '1:1'
