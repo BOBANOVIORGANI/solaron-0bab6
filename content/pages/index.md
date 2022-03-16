@@ -228,6 +228,42 @@ sections:
       actions:
         justifyContent: flex-start
     type: FeaturedItemsSection
+  - elementId: ''
+    colors: colors-a
+    variant: variant-a
+    testimonials:
+      - quote: >
+          The company is here where it is, but only time will tell how the
+          future of SOLAROW will look like.
+        name: Marin Golub
+        title: CEO of SOLAROW
+        image:
+          url: /images/IMG_20211118_103451_855.jpg
+          altText: altText of the image
+          caption: Caption of the image
+          elementId: ''
+          styles:
+            self:
+              opacity: 100
+          type: ImageBlock
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+        padding:
+          - pt-28
+          - pb-56
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+    type: TestimonialsSection
   - colors: colors-f
     elementId: ''
     title: Need Answers?
@@ -285,41 +321,5 @@ sections:
         elementId: ''
         type: Link
         label: See all
-  - elementId: ''
-    colors: colors-a
-    variant: variant-a
-    testimonials:
-      - quote: >
-          The company is here where it is, but only time will tell how the
-          future of SOLAROW will look like.
-        name: Marin Golub
-        title: CEO of SOLAROW
-        image:
-          url: /images/IMG_20211118_103451_855.jpg
-          altText: altText of the image
-          caption: Caption of the image
-          elementId: ''
-          styles:
-            self:
-              opacity: 100
-          type: ImageBlock
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-        padding:
-          - pt-28
-          - pb-56
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-    type: TestimonialsSection
 socialImage: /images/SOLAROW (1).png
 ---
