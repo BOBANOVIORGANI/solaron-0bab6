@@ -1,6 +1,6 @@
 ---
 metaTitle: Terms & Conditions
-metaDescription: Company's terms
+metaDescription: 'Company''s terms and conditions. '
 addTitleSuffix: true
 socialImage: /images/SOLAROW (1).png
 metaTags: []
