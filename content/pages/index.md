@@ -86,6 +86,48 @@ sections:
       actions:
         justifyContent: flex-start
     type: FeatureHighlightSection
+  - elementId: ''
+    colors: colors-a
+    title: Multiple colors
+    text: |
+      Colors for everyone, get yourself SolarPower B1 with your prefered color.
+    actions:
+      - type: Link
+        label: Learn More
+        url: /solarpower-b1
+        showIcon: true
+        icon: arrowRight
+        iconPosition: right
+    media:
+      type: ImageBlock
+      url: /images/HTB1nsPlagvD8KJjSsplq6yIEFXaP.jpg
+      altText: Hero section image
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-6
+          - pb-36
+          - pl-4
+          - pr-4
+        alignItems: center
+        justifyContent: center
+        flexDirection: row-reverse
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      text:
+        textAlign: left
+      actions:
+        justifyContent: flex-start
+    type: FeatureHighlightSection
   - colors: colors-a
     elementId: ''
     title: Why you should get SolarPower?
@@ -196,48 +238,6 @@ sections:
       actions:
         justifyContent: flex-start
     type: FeaturedItemsSection
-  - elementId: ''
-    colors: colors-a
-    title: Multiple colors
-    text: |
-      Colors for everyone, get yourself SolarPower B1 with your prefered color.
-    actions:
-      - type: Link
-        label: Learn More
-        url: /solarpower-b1
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-    media:
-      type: ImageBlock
-      url: /images/HTB1nsPlagvD8KJjSsplq6yIEFXaP.jpg
-      altText: Hero section image
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-6
-          - pb-36
-          - pl-4
-          - pr-4
-        alignItems: center
-        justifyContent: center
-        flexDirection: row-reverse
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
-    type: FeatureHighlightSection
   - colors: colors-f
     elementId: ''
     title: Need Answers?
