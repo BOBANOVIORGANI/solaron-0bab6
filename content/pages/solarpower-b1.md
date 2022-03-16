@@ -27,7 +27,7 @@ sections:
     actions:
       - type: Button
         label: BUY
-        url: /
+        url: /solarow.bigcartel.com
         style: primary
     media:
       type: ImageBlock
