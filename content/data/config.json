@@ -141,7 +141,7 @@
             {
                 "label": "Facebook",
                 "altText": "Facebook",
-                "url": "/https://www.facebook.com/profile.php?id=100073733844441",
+                "url": "https://www.facebook.com/profile.php?id=100073733844441",
                 "icon": "facebook",
                 "style": "link",
                 "elementId": ""
