@@ -10,8 +10,14 @@ sections:
     colors: colors-a
     backgroundSize: full
     title: Contact us
-    text: |
+    text: |+
       We look forward to hearing feedback from you.
+
+      SOLAROW
+      Croatia
+      10000 Zagreb
+      E-Mail: contact.solarow@gmail.com
+
     form:
       type: FormBlock
       variant: variant-a
