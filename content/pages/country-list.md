@@ -31,5 +31,136 @@ sections:
         textAlign: left
       text:
         textAlign: left
+    text: |+
+      *   USA
+
+      *   Canada
+
+      *   Mexico
+
+      *   Dominican Republic
+
+      *   Brasilia
+
+      *   Chile
+
+      *   Argentina
+
+      *   Uruguay
+
+      *   Panama
+
+      *   South Africa
+
+      *   Tunisia
+
+      *   Turkey
+
+      *   Morocco
+
+      *   Spain
+
+      *   Portugal
+
+      *   Israel
+
+      *   France
+
+      *   Germany
+
+      *   Poland
+
+      *   Sweden
+
+      *   Norway
+
+      *   Finland
+
+      *   Switzerland
+
+      *   Netherlands
+
+      *   Belgium
+
+      *   Luxembourg
+
+      *   Czechia
+
+      *   Slovakia
+
+      *   Columbia
+
+      *   Ecuador
+
+      *   Costa Rica
+
+      *   Austria
+
+      *   Liechtenstein
+
+      *   Slovenia
+
+      *   Serbia
+
+      *   Bosnia and Herzegovina
+
+      *   Montenegro
+
+      *   Italy
+
+      *   Monaco
+
+      *   Croatia
+
+      *   Estonia
+
+      *   Lithuania
+
+      *   Latvia
+
+      *   Ukraine
+
+      *   Romania
+
+      *   Bulgaria
+
+      *   Greece
+
+      *   China
+
+      *   India
+
+      *   Pakistan
+
+      *   South Korea
+
+      *   Japan
+
+      *   Vietnam
+
+      *   North Macedonia
+
+      *   Malta
+
+      *   San Marino
+
+      *   Kazakhstan
+
+      *   Uzbekistan
+
+      *   Australia
+
+      *   New Zealand
+
+      *   Indonesia
+
+      *   Malaysia
+
+      *   Papua New Guinea
+
+      *   Micronesia
+
+      That is all for now but we will expand our shipping range soon.
+
 layout: PageLayout
 ---
