@@ -85,13 +85,7 @@ sections:
     title: Multiple colors
     text: |
       Colors for everyone, get yourself SolarPower B1 with your prefered color.
-    actions:
-      - type: Link
-        label: Learn More
-        url: /solarpower-b1
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
+    actions: []
     media:
       type: ImageBlock
       url: /images/HTB1nsPlagvD8KJjSsplq6yIEFXaP.jpg
