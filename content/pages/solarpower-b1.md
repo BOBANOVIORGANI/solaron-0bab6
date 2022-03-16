@@ -183,7 +183,7 @@ sections:
         caption: SolarPower B1 Sea Blue
       - type: ImageBlock
         url: /images/HTB1SXNwSXXXXXa_XFXXq6xXFXXXX.jpg
-        altText: Image two
+        altText: 'B1 '
         caption: Image two caption
       - type: ImageBlock
         url: /images/HTB181hqSXXXXXcTXFXXq6xXFXXXs.jpg
