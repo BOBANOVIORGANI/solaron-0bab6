@@ -1,5 +1,5 @@
 ---
-metaTitle: null
+metaTitle: Privacy Policy
 metaDescription: null
 addTitleSuffix: true
 socialImage: null
