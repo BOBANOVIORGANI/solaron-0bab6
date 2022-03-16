@@ -30,7 +30,7 @@
                 "label": "BUY",
                 "altText": "",
                 "url": "/",
-                "showIcon": true,
+                "showIcon": false,
                 "iconPosition": "right",
                 "style": "primary",
                 "elementId": "",
