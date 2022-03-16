@@ -45,7 +45,7 @@ sections:
         - name: text
           label: Enter message
           hideLabel: false
-          placeholder: Your home address
+          placeholder: Enter message
           isRequired: false
           width: full
           type: TextFormControl
