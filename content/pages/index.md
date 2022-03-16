@@ -5,7 +5,7 @@ sections:
   - type: HeroSection
     elementId: homepage-hero-1
     colors: colors-a
-    title: Welcome to the future of equipment
+    title: Welcome to the future
     subtitle: 'One sunshine, millions of batteries charged .'
     actions:
       - type: Link
