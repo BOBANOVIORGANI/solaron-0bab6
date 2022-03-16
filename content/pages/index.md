@@ -124,8 +124,8 @@ sections:
     elementId: ''
     title: Why you should get SolarPower?
     subtitle: >-
-      These are all excellent features that will provide exactly the things
-      you’re looking for.
+      Some great features that will provide exactly the things you’re looking
+      for.
     items:
       - type: FeaturedItem
         title: Ecofriendly
