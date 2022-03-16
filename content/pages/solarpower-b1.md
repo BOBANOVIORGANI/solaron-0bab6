@@ -184,7 +184,7 @@ sections:
       - type: ImageBlock
         url: /images/HTB1SXNwSXXXXXa_XFXXq6xXFXXXX.jpg
         altText: SolarPower B1 Gold
-        caption: SolarPower B1 Gold
+        caption: B1 Gold
       - type: ImageBlock
         url: /images/HTB181hqSXXXXXcTXFXXq6xXFXXXs.jpg
         altText: SolarPower B1 Cake Pink
