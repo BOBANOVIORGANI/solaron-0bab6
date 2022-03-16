@@ -207,11 +207,6 @@ sections:
     text: |
       Colors for everyone, get yourself SolarPower B1 with your prefered color.
     actions:
-      - type: Button
-        label: Get Started
-        url: 'https://www.stackbit.com/'
-        style: primary
-        elementId: hero-main-button
       - type: Link
         label: Learn More
         url: /solarpower-b1
