@@ -204,7 +204,7 @@ sections:
       - url: >-
           https://assets.stackbit.com/components/images/default/default-image.png
         altText: B1 Shiny Silver
-        caption: Caption of the image
+        caption: SolarPower B1 Shiny Silver
         elementId: ''
         styles:
           self:
