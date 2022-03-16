@@ -1,6 +1,8 @@
 ---
 metaTitle: Country list
-metaDescription: 'This is a list of the country where we are shipping. Range will expand '
+metaDescription: >-
+  This is a list of the country where we are shipping. Range will expand soon.
+  Since 2022.
 addTitleSuffix: true
 socialImage: /images/SOLAROW (1).png
 metaTags: []
