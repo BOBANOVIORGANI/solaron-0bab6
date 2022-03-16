@@ -1,6 +1,6 @@
 ---
 metaTitle: SolarPower B1
-metaDescription: null
+metaDescription: The newest pr
 addTitleSuffix: true
 socialImage: /images/SOLAROW (1).png
 metaTags: []
