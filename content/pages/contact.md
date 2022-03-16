@@ -46,7 +46,7 @@ sections:
           label: Text
           hideLabel: false
           placeholder: Enter message
-          isRequired: false
+          isRequired: true
           width: full
           type: TextFormControl
       submitLabel: Send Message
