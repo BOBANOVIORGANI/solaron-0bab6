@@ -44,6 +44,48 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
+  - elementId: ''
+    colors: colors-a
+    title: A great product that we’re proud of
+    text: |
+      The newest and first wireless solar PowerBank from SOLAROW.
+    actions:
+      - type: Link
+        label: Learn More
+        url: /solarpower-b1
+        showIcon: true
+        icon: arrowRight
+        iconPosition: right
+    media:
+      type: ImageBlock
+      url: /images/1dc3456ef88ac0593d8166693be788f92dc58866_original.jpeg
+      altText: Hero section image
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-36
+          - pb-6
+          - pl-4
+          - pr-4
+        alignItems: center
+        justifyContent: center
+        flexDirection: row
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      text:
+        textAlign: left
+      actions:
+        justifyContent: flex-start
+    type: FeatureHighlightSection
   - colors: colors-a
     elementId: ''
     title: Why you should get SolarPower?
@@ -154,48 +196,6 @@ sections:
       actions:
         justifyContent: flex-start
     type: FeaturedItemsSection
-  - elementId: ''
-    colors: colors-a
-    title: A great product that we’re proud of
-    text: |
-      The newest and first wireless solar PowerBank from SOLAROW.
-    actions:
-      - type: Link
-        label: Learn More
-        url: /solarpower-b1
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-    media:
-      type: ImageBlock
-      url: /images/1dc3456ef88ac0593d8166693be788f92dc58866_original.jpeg
-      altText: Hero section image
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-36
-          - pb-6
-          - pl-4
-          - pr-4
-        alignItems: center
-        justifyContent: center
-        flexDirection: row
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
-    type: FeatureHighlightSection
   - elementId: ''
     colors: colors-a
     title: Multiple colors
