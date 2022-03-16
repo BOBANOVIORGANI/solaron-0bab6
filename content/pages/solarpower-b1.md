@@ -64,7 +64,7 @@ sections:
       - type: FeaturedItem
         title: "Solar\_replenishment"
         text: |
-          The PowerBank can charge itself by solar energy, and sunshine.
+          The PowerBank can charge itself by solar energy, and sun's sunshine.
         featuredImage:
           type: ImageBlock
           url: /images/smarter.svg
