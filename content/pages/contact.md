@@ -1,5 +1,5 @@
 ---
-metaTitle: null
+metaTitle: Contact us
 metaDescription: null
 addTitleSuffix: true
 socialImage: null
