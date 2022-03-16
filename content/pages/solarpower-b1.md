@@ -2,7 +2,7 @@
 metaTitle: SolarPower B1
 metaDescription: null
 addTitleSuffix: true
-socialImage: null
+socialImage: /images/SOLAROW (1).png
 metaTags: []
 title: SolarPower B1
 sections:
