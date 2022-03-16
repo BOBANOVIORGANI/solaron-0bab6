@@ -74,9 +74,9 @@ sections:
             textAlign: center
       - type: FeaturedItem
         title: Thin design
-        text: >-
-          Learn how top tech companies have learned working remote using our
-          product.
+        text: >
+          With it's thin design, you will forget that you have PowerBank in your
+          hand.
         featuredImage:
           type: ImageBlock
           url: /images/focused.svg
