@@ -160,11 +160,6 @@ sections:
     text: |
       The newest and first wireless solar PowerBank from SOLAROW.
     actions:
-      - type: Button
-        label: BUY NOW
-        url: 'https://www.stackbit.com/'
-        style: primary
-        elementId: hero-main-button
       - type: Link
         label: Learn More
         url: /solarpower-b1
