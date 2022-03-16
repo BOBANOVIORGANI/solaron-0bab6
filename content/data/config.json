@@ -33,7 +33,8 @@
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "elementId": "",
-                "type": "Link"
+                "type": "Link",
+                "label": "PowerBank"
             }
         ],
         "secondaryLinks": [],
