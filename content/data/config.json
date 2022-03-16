@@ -93,12 +93,6 @@
         "copyrightText": "SOLAROW © 2022\n\n",
         "primaryLinks": [
             {
-                "type": "Link",
-                "label": "CAREERS AND ABOUT",
-                "url": "/careers",
-                "altText": ""
-            },
-            {
                 "label": "SolarPower B1",
                 "altText": "",
                 "url": "/solarpower-b1",
@@ -107,6 +101,12 @@
                 "iconPosition": "right",
                 "elementId": "",
                 "type": "Link"
+            },
+            {
+                "type": "Link",
+                "label": "CAREERS AND ABOUT",
+                "url": "/careers",
+                "altText": ""
             },
             {
                 "type": "Link",
