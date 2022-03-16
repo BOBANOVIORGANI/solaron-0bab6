@@ -187,7 +187,7 @@ sections:
         caption: SolarPower B1 Gold
       - type: ImageBlock
         url: /images/HTB181hqSXXXXXcTXFXXq6xXFXXXs.jpg
-        altText: 'B1  '
+        altText: B1 C
         caption: Image three caption
       - type: ImageBlock
         url: /images/HTB1fAxxSXXXXXaSXFXXq6xXFXXXR.jpg
