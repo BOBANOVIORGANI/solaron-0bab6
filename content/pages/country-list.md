@@ -2,7 +2,7 @@
 metaTitle: Country list
 metaDescription: null
 addTitleSuffix: true
-socialImage: null
+socialImage: /images/SOLAROW (1).png
 metaTags: []
 title: Countries in our range
 sections:
