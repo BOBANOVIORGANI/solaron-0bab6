@@ -54,7 +54,8 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/1dc3456ef88ac0593d8166693be788f92dc58866_original.jpeg
+      url: >-
+        /images/99000mAh-Solar-Power-Bank-Large-Capacity-Portable-Charger-2USBcellphone-Battery-Outdoor-Waterproof-Power-Bank-for-Xiaomi.jpg_Q90.jpg_.webp
       altText: Hero section image
     styles:
       self:
