@@ -157,7 +157,7 @@ sections:
     title: 'A great feature, we’re proud of'
     subtitle: ''
     badge:
-      label: This is the badge
+      label: B1
       elementId: ''
       styles:
         self:
