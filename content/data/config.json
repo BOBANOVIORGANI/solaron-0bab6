@@ -9,6 +9,16 @@
         "isTitleVisible": true,
         "primaryLinks": [
             {
+                "label": "Learn more",
+                "altText": "",
+                "url": "/",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": "",
+                "type": "Link"
+            },
+            {
                 "altText": "",
                 "url": "/solarpower-b1",
                 "showIcon": false,
