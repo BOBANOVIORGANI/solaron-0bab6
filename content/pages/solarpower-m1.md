@@ -133,10 +133,10 @@ sections:
       Introducing the future of smart charging.
 
 
-      Charge anytime, anywhere with SolarPower P1. Charge your devices secure
+      Charge anytime, anywhere with SolarPower M1. Charge your devices secure
       and plug in with a wired dock. It has a 100% efficiency rating to
       guarantee a secure and reliable charge. And because it is a PowerBank, you
-      can charge the SolarPower P1 and charge your phone simultaneously for up
+      can charge the SolarPower M1 and charge your phone simultaneously for up
       to six devices at a time. “Life on the go is always a challenge''. For
       some, it’s being able to charge devices fast. For others it's something
       second.
