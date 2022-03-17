@@ -139,6 +139,12 @@ sections:
       actions:
         justifyContent: flex-start
     type: FeatureHighlightSection
+    badge:
+      label: This is the badge
+      elementId: ''
+      styles:
+        self:
+          textAlign: left
   - colors: colors-a
     elementId: ''
     title: Why you should get SolarPower?
