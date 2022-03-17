@@ -7,13 +7,7 @@ sections:
     colors: colors-a
     title: Welcome to the future
     subtitle: 'Charge smart, worry less.'
-    actions:
-      - type: Link
-        label: Learn More
-        url: /solarpower-b1
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
+    actions: []
     media:
       type: ImageBlock
       url: /images/solarow-5cb6648e.png
