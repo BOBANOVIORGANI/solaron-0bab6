@@ -88,8 +88,8 @@ sections:
     title: Or easy portability?
     text: >
       Small body will make you forgot you are holding PowerBank in your hands or
-      have in your pocket, and solid 5000mAh battery capacity will charge almost
-      any phone from 0 to 100%.
+      have in your pocket, and solid 5000mAh battery capacity will be enough to
+      charge almost any phone from 0 to 100%.
     actions: []
     media:
       type: ImageBlock
