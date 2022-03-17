@@ -166,7 +166,15 @@ sections:
       Elegant metal body and thin design will make you forgot you have PowerBank
       in your pocket or holding in hand. Big 10000mAh battery capacity will be
       enough to charge your smartphone at least two times or even your tablet.
-    actions: []
+    actions:
+      - label: Learn more
+        altText: ''
+        url: /
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        elementId: ''
+        type: Link
     media:
       type: ImageBlock
       url: /images/m.png
