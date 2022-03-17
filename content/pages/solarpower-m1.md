@@ -128,7 +128,7 @@ sections:
   - elementId: ''
     colors: colors-a
     backgroundSize: full
-    title: About M1
+    title: About the M1
     text: >+
       Introducing the future of smart charging.
 
