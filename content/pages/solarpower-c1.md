@@ -18,8 +18,12 @@ sections:
         self:
           textAlign: left
     text: >
-      Share WIP, comment on each other’s work, approve what’s ready to go, ship
-      together
+      Why you should get this PowerBank over the others you might ask? Well, for
+      first, this product is not designed for exact smartphone linup or brand,
+      any smartphone will charge at max speed that device support. Also, for
+      this price, you get some of the amazing features that you won't get with
+      most of the other PowerBanks, like already mentioned, solar replenishment
+      of the PowerBank, and more colours than regular black and white.
     actions:
       - type: Button
         label: Sign Up
