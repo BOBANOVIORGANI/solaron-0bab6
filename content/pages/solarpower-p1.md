@@ -92,8 +92,8 @@ sections:
       - type: FeaturedItem
         title: Small housing
         text: >
-          With it's thin design, you will forget that you have PowerBank in your
-          hand.
+          With it's small housing, you will forget that you have PowerBank in
+          your hand.
         featuredImage:
           type: ImageBlock
           url: /images/focused.svg
