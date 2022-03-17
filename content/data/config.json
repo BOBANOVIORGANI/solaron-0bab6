@@ -103,7 +103,7 @@
             {
                 "label": "SP B1",
                 "altText": "",
-                "url": "/sol",
+                "url": "/solarpower-b1",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
