@@ -68,8 +68,9 @@ sections:
     items:
       - type: FeaturedItem
         title: Fast charging
-        text: |
-          You can charge your phone wired up to 30W.
+        text: >
+          You can securely charge your phone(s) wired, up to two phones at the
+          same time.
         featuredImage:
           type: ImageBlock
           url: /images/faster.svg
