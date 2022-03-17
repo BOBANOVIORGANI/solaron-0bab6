@@ -164,9 +164,24 @@ sections:
             title: Director of the company
             location: Marin Golub
             text: >
-              CEO and founder of SOLAROW. Born in Croatia, small country in
-              Europe. He managed to make a company with just 14 years. Now he is
-              indebted for everything what is happening.
+              Marin Golub is founder and current CEO of SOLAROW. He was born in
+              Zagreb, capital city of small European country called Croatia. He
+              devised company when he was 14 years old, he went for a walk with
+              low battery, and he thought about having PowerBank what can be
+              charged by solar power. He then made the design for website and
+              started his own business. He was selling PowerBanks that can be
+              charged and powered by solar energy. As business was growing, more
+              peoples joined the team and the company become bigger and bigger.
+              From day to day, company was instantly growing until it got to
+              where it is now, selling PowerBanks around the world, to millions
+              of peoples and happy customers. As you, we are also humans, and we
+              can make a mistake, like some big tech companies, but like them,
+              we try to improve from day to day, trying to make best possible
+              product for fair price. Our products are not perfect, and we know
+              it, but we are improving efficiency, quality and eventual bugs in
+              every new generation. He started in average conditions of work,
+              and look where he is now. If Marin could make it, then you have no
+              excuse to say: "I can't!"
             actions: []
     styles:
       self:
