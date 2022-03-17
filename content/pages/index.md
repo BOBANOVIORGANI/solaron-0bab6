@@ -46,7 +46,7 @@ sections:
         justifyContent: flex-start
   - elementId: ''
     colors: colors-a
-    title: The product that we’re proud of
+    title: Need big battery?
     text: >
       Big 100000mAh will charge any of your devices multiple times in a row.
       PowerBank with many ports to charge even more devices together. You won't
