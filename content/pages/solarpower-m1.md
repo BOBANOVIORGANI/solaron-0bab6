@@ -1,5 +1,5 @@
 ---
-metaTitle: SolarPower P1
+metaTitle: SolarPower M1
 metaDescription: >-
   The newest product from SOLAROW. Great product for value with some unusual
   features. Since 2022.
