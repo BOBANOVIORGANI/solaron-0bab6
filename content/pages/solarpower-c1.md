@@ -26,7 +26,7 @@ sections:
       of the PowerBank, and more colours than regular black and white.
     actions:
       - type: Button
-        label: Sign Up
+        label: '19.99'
         url: /
         style: primary
     media:
