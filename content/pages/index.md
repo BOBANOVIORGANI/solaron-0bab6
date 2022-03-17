@@ -173,7 +173,7 @@ sections:
         style: primary
     media:
       type: ImageBlock
-      url: /images/hero-1.png
+      url: /images/1647368293288.png
       altText: Hero image
     styles:
       self:
