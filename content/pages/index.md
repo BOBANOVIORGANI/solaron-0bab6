@@ -7,7 +7,16 @@ sections:
     colors: colors-a
     title: Welcome to the future
     subtitle: 'Charge smart, worry less.'
-    actions: []
+    actions:
+      - label: Learn more
+        altText: ''
+        url: /
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
+        type: Button
     media:
       type: ImageBlock
       url: /images/solarow-5cb6648e.png
