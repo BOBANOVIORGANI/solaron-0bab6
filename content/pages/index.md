@@ -170,7 +170,7 @@ sections:
       - label: Learn more
         altText: ''
         url: /solarpower-b1
-        showIcon: false
+        showIcon: true
         icon: arrowRight
         iconPosition: right
         elementId: ''
