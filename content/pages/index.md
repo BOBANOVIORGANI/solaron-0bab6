@@ -93,7 +93,7 @@ sections:
         justifyContent: flex-start
     type: FeatureHighlightSection
     badge:
-      label: This is the badge
+      label: M1
       elementId: ''
       styles:
         self:
