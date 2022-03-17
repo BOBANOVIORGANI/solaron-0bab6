@@ -10,7 +10,7 @@ sections:
     actions:
       - label: Learn more
         altText: ''
-        url: /
+        url: 'https://solarow.bigcartel.com/'
         showIcon: false
         icon: arrowRight
         iconPosition: right
