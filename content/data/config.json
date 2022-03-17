@@ -101,6 +101,16 @@
         "copyrightText": "SOLAROW © 2022\n\n",
         "primaryLinks": [
             {
+                "label": "Learn more",
+                "altText": "",
+                "url": "/",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": "",
+                "type": "Link"
+            },
+            {
                 "label": "POWERBANK",
                 "altText": "",
                 "url": "/solarpower-b1",
