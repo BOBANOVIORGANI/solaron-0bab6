@@ -49,8 +49,9 @@ sections:
     title: Need huge battery?
     text: >
       Big 100000mAh will charge any of your devices multiple times in a row.
-      PowerBank with many ports to charge even more devices together. You won't
-      need to charge separately.
+      PowerBank with many ports to charge even more devices together so you
+      won't need to charge separately. And rugged body will survive falls to
+      ground.
     actions: []
     media:
       type: ImageBlock
