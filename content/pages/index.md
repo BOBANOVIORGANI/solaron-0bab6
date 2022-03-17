@@ -87,9 +87,9 @@ sections:
     colors: colors-a
     title: Or easy portability?
     text: >
-      Colours for everyone, get yourself SolarPower B1 with your preferred
-      coloured metal body and frame. Available in six great colours for
-      everyone's taste and pocket.
+      Small body will make you forgot you are holding PowerBank in your hands or
+      have in your pocket, and solid 5000mAh battery capacity will charge almost
+      any phone from 0 to 100%.
     actions: []
     media:
       type: ImageBlock
