@@ -14,7 +14,7 @@ sections:
     title: Get the PowerBank
     subtitle: ''
     badge:
-      label: SolarPower B1
+      label: SolarPower P1
       elementId: ''
       styles:
         self:
