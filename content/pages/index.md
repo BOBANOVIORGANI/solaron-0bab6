@@ -8,7 +8,7 @@ sections:
     title: Welcome to the future
     subtitle: 'Charge smart, worry less.'
     actions:
-      - label: Learn more
+      - label: GET NOW
         altText: ''
         url: 'https://solarow.bigcartel.com/'
         showIcon: false
