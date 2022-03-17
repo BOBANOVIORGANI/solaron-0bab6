@@ -92,6 +92,12 @@ sections:
       actions:
         justifyContent: flex-start
     type: FeatureHighlightSection
+    badge:
+      label: This is the badge
+      elementId: ''
+      styles:
+        self:
+          textAlign: left
   - elementId: ''
     colors: colors-a
     title: Or easy portability?
