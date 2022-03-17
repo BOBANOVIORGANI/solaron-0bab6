@@ -4,7 +4,7 @@
     "header": {
         "headerVariant": "variant-c",
         "primaryColors": "colors-h",
-        "secondaryColors": "colors-f",
+        "secondaryColors": "colors-h",
         "title": "SOLAROW",
         "isTitleVisible": true,
         "primaryLinks": [
