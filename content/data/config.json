@@ -11,7 +11,7 @@
             {
                 "altText": "",
                 "url": "/solarpower-b1",
-                "showIcon": true,
+                "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "elementId": "",
