@@ -182,7 +182,7 @@ sections:
       - type: ImageBlock
         url: /images/m1red.png
         altText: SolarPower M1 Rose Red
-        caption: M1 Cloud White
+        caption: M1 Rose Red
       - type: ImageBlock
         url: /images/m1black.png
         altText: SolarPower B1 Rose Red
