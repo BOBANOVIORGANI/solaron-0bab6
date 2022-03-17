@@ -190,7 +190,7 @@ sections:
         altText: SolarPower B1 Cake Pink
         caption: B1 Cake Pink
       - url: /images/HTB1f2dCSXXXXXc3XpXXq6xXFXXXK.jpg
-        altText: P1 Coal Black
+        altText: SolarPower P1 Coal Black
         caption: SolarPower P1 Coal Black
         elementId: ''
         styles:
