@@ -85,7 +85,7 @@ sections:
     type: FeatureHighlightSection
   - elementId: ''
     colors: colors-a
-    title: Or compact
+    title: Or easy portability?
     text: >
       Colours for everyone, get yourself SolarPower B1 with your preferred
       coloured metal body and frame. Available in six great colours for
