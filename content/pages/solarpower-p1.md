@@ -188,7 +188,7 @@ sections:
       - type: ImageBlock
         url: /images/p1red.png
         altText: SolarPower B1 Rose Red
-        caption: B1 Rose Red
+        caption: P1 Rose Red
       - url: /images/p1black.png
         altText: SolarPower P1 Coal Black
         caption: P1 Coal Black
