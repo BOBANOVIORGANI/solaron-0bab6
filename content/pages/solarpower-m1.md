@@ -187,13 +187,6 @@ sections:
         url: /images/m1black.png
         altText: SolarPower B1 Rose Red
         caption: B1 Cake Rose Red
-      - altText: SolarPower P1 Coal Black
-        caption: P1 Coal Black
-        elementId: ''
-        styles:
-          self:
-            opacity: 100
-        type: ImageBlock
     spacing: 1
     columns: 2
     aspectRatio: '1:1'
