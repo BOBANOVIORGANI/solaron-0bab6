@@ -188,7 +188,7 @@ sections:
       - type: ImageBlock
         url: /images/HTB181hqSXXXXXcTXFXXq6xXFXXXs.jpg
         altText: SolarPower B1 Rose Red
-        caption: B1 Cake Pink
+        caption: B1 Cake Rose Red
       - url: /images/HTB1f2dCSXXXXXc3XpXXq6xXFXXXK.jpg
         altText: SolarPower P1 Coal Black
         caption: P1 Coal Black
