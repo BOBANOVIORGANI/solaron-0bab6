@@ -33,7 +33,7 @@ sections:
         style: primary
     media:
       type: ImageBlock
-      url: /images/HTB1nsPlagvD8KJjSsplq6yIEFXaP.jpg
+      url: /images/m1.png
       altText: Hero image
     styles:
       self:
