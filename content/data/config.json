@@ -111,6 +111,16 @@
                 "type": "Link"
             },
             {
+                "label": "Learn more",
+                "altText": "",
+                "url": "/",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": "",
+                "type": "Link"
+            },
+            {
                 "label": "POWERBANK",
                 "altText": "",
                 "url": "/solarpower-b1",
