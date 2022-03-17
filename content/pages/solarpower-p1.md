@@ -129,7 +129,7 @@ sections:
     colors: colors-a
     backgroundSize: full
     title: About P1
-    text: >
+    text: >+
       Introducing the future of smart charging.
 
 
@@ -137,9 +137,10 @@ sections:
       and plug in with a wired dock. It has a 100% efficiency rating to
       guarantee a secure and reliable charge. And because it is a PowerBank, you
       can charge the SolarPower P1 and charge your phone simultaneously for up
-      to six devices at a time. “Life on the go is always a challenge''. For
-      some, it’s being able to charge devices fast. For others it's something
-      second.
+      to three devices at a time. His 5000mAh battery is enough to charge your
+      smartphone at least one times. “Life on the go is always a challenge''.
+      For some, it’s being able to charge devices fast. For others it's
+      something second.
 
 
       Don’t be put in the dark just because you ran out of battery. Now you can
@@ -148,6 +149,7 @@ sections:
       about running out of battery power for your devices again. This PowerBank
       comes in three colours and charges in seconds. Comes with a unique LED
       flashlight.
+
     actions: []
     backgroundImage: null
     styles:
