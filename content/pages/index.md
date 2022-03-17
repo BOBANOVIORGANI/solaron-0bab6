@@ -154,7 +154,7 @@ sections:
   - elementId: ''
     colors: colors-a
     backgroundSize: full
-    title: 'A great feature, we’re proud of'
+    title: Or overall product?
     subtitle: ''
     badge:
       label: B1
