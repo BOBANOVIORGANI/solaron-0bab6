@@ -205,14 +205,6 @@ sections:
           self:
             opacity: 100
         type: ImageBlock
-      - url: /images/HTB1Ncf5RVXXXXcrXpXXq6xXFXXXO.jpg
-        altText: SolarPower B1 Shiny Silver
-        caption: B1 Shiny Silver
-        elementId: ''
-        styles:
-          self:
-            opacity: 100
-        type: ImageBlock
     spacing: 1
     columns: 2
     aspectRatio: '1:1'
