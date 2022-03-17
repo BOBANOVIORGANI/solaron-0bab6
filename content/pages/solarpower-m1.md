@@ -186,7 +186,7 @@ sections:
       - type: ImageBlock
         url: /images/m1black.png
         altText: SolarPower M1 Coal Black
-        caption: M1 Cake Rose Red
+        caption: M1 Coal Black
     spacing: 1
     columns: 2
     aspectRatio: '1:1'
