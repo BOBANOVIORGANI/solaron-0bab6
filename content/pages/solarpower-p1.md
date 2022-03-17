@@ -180,7 +180,9 @@ sections:
     subtitle: PowerBank colors what you can get
     images:
       - type: ImageBlock
-        url: /images/HTB1oPVlSXXXXXaFXVXXq6xXFXXXB-c2515f29.jpg
+        url: >-
+          /images/NEW-RT-PINZHENG-Mini-Solar-Power-Bank-5000-10000mAh-Power-Bank-For-Phone-Powerbank-External-Spare.jpg_640x640
+          (1).jpg
         altText: SolarPower B1 Sea Blue
         caption: B1 Sea Blue
       - type: ImageBlock
