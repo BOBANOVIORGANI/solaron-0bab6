@@ -184,7 +184,7 @@ sections:
           /images/NEW-RT-PINZHENG-Mini-Solar-Power-Bank-5000-10000mAh-Power-Bank-For-Phone-Powerbank-External-Spare.jpg_640x640
           (1).jpg
         altText: SolarPower P1 Cloud White
-        caption: B1 Sea Blue
+        caption: P1 Cloud White
       - type: ImageBlock
         url: /images/HTB1SXNwSXXXXXa_XFXXq6xXFXXXX.jpg
         altText: SolarPower B1 Gold
