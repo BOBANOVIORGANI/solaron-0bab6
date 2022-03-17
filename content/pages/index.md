@@ -103,7 +103,7 @@ sections:
       - label: Learn more
         altText: ''
         url: /solarpower-p1
-        showIcon: false
+        showIcon: true
         icon: arrowRight
         iconPosition: right
         elementId: ''
