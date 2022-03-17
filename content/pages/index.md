@@ -93,7 +93,9 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/HTB1nsPlagvD8KJjSsplq6yIEFXaP.jpg
+      url: >-
+        /images/NEW-RT-PINZHENG-Mini-Solar-Power-Bank-5000-10000mAh-Power-Bank-For-Phone-Powerbank-External-Spare.jpg_Q90.jpg_
+        (2).webp
       altText: Hero section image
     styles:
       self:
