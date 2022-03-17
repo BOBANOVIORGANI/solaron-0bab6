@@ -180,9 +180,7 @@ sections:
     subtitle: PowerBank colors what you can get
     images:
       - type: ImageBlock
-        url: >-
-          /images/NEW-RT-PINZHENG-Mini-Solar-Power-Bank-5000-10000mAh-Power-Bank-For-Phone-Powerbank-External-Spare.jpg_640x640
-          (1).jpg
+        url: /images/m1red.png
         altText: SolarPower P1 Cloud White
         caption: P1 Cloud White
       - type: ImageBlock
