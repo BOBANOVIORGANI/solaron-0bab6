@@ -146,7 +146,7 @@ sections:
       have your power and backup your phone, tablet or other gadgets with this
       solar-powered battery bank. With this PowerBank, you never have to worry
       about running out of battery power for your devices again. This PowerBank
-      comes in three colours and charges in seconds. Comes with a unique LED
+      comes in two colours and charges in seconds. Comes with a unique LED
       flashlight.
     actions: []
     backgroundImage: null
