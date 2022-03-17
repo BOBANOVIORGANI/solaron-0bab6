@@ -90,7 +90,7 @@ sections:
           self:
             textAlign: center
       - type: FeaturedItem
-        title: Thin design
+        title: Small housing
         text: >
           With it's thin design, you will forget that you have PowerBank in your
           hand.
