@@ -186,10 +186,6 @@ sections:
         altText: SolarPower P1 Cloud White
         caption: P1 Cloud White
       - type: ImageBlock
-        url: /images/HTB1SXNwSXXXXXa_XFXXq6xXFXXXX.jpg
-        altText: SolarPower B1 Gold
-        caption: B1 Gold
-      - type: ImageBlock
         url: /images/HTB181hqSXXXXXcTXFXXq6xXFXXXs.jpg
         altText: SolarPower B1 Cake Pink
         caption: B1 Cake Pink
