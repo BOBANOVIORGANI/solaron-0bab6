@@ -55,7 +55,7 @@ sections:
     actions:
       - label: Learn more
         altText: ''
-        url: /
+        url: /solarpower-m1
         showIcon: false
         icon: arrowRight
         iconPosition: right
