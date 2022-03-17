@@ -111,7 +111,7 @@
                 "type": "Link"
             },
             {
-                "label": "SolarP P1",
+                "label": "SolarPower P1",
                 "altText": "",
                 "url": "/solarpower-p1",
                 "showIcon": false,
