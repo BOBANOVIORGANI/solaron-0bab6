@@ -92,8 +92,8 @@ sections:
       - type: FeaturedItem
         title: Huge battery
         text: >
-          With it's thin design, you will forget that you have PowerBank in your
-          hand.
+          It's huge battery will be enough to charge four smartphones multiple
+          times.
         featuredImage:
           type: ImageBlock
           url: /images/focused.svg
