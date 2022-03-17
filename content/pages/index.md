@@ -52,7 +52,15 @@ sections:
       PowerBank with many ports to charge even more devices together so you
       won't need to charge separately. And rugged body will survive falls to
       ground.
-    actions: []
+    actions:
+      - label: Learn more
+        altText: ''
+        url: /
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        elementId: ''
+        type: Link
     media:
       type: ImageBlock
       url: >-
