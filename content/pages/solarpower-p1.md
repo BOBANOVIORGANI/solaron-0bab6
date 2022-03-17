@@ -69,7 +69,7 @@ sections:
       - type: FeaturedItem
         title: Fast charging
         text: |
-          You can charge your phone wirelessly up to 15W, and wired up to 30W.
+          You can charge your phone wired up to 30W.
         featuredImage:
           type: ImageBlock
           url: /images/faster.svg
