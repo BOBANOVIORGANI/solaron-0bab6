@@ -129,7 +129,7 @@ sections:
     colors: colors-a
     backgroundSize: full
     title: About B1
-    text: >+
+    text: >
       Introducing the future of smart charging.
 
 
@@ -148,7 +148,6 @@ sections:
       about running out of battery power for your devices again. This PowerBank
       comes in six colours and charges in seconds. Comes with a unique LED
       flashlight.
-
     actions: []
     backgroundImage: null
     styles:
