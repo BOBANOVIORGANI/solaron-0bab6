@@ -6,7 +6,7 @@ metaDescription: >-
 addTitleSuffix: true
 socialImage: /images/SOLAROW (1).png
 metaTags: []
-title: Careers and About
+title: About
 sections:
   - elementId: ''
     colors: colors-h
