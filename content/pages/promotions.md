@@ -8,7 +8,7 @@ title: Promotions
 sections:
   - type: TextSection
     colors: colors-a
-    title: This in an empty page
+    title: Never miss any deal
     subtitle: >-
       Start adding sections by clicking the + button on the page or though the
       sidebar.
