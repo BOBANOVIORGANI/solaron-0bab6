@@ -179,7 +179,7 @@ sections:
   - colors: colors-a
     elementId: ''
     title: Variants
-    subtitle: PowerBank colors what you can get
+    subtitle: PowerBank colours what you can get
     images:
       - type: ImageBlock
         url: /images/m1red.png
