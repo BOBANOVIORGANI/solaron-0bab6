@@ -9,9 +9,7 @@ sections:
   - type: TextSection
     colors: colors-a
     title: Never miss any deal
-    subtitle: >-
-      Start adding sections by clicking the + button on the page or though the
-      sidebar.
+    subtitle: Save money when you buying if you can
     styles:
       self:
         height: auto
