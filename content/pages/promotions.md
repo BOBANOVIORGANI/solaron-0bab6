@@ -42,9 +42,15 @@ sections:
       styles:
         self:
           textAlign: left
-    text: >-
-      Share WIP, comment on each other’s work, approve what’s ready to go, ship
-      together
+    text: >
+      Limited for 300 customers, order anything from the store ang get the great
+      discounts, and save some money. Get 10% off when ordering anything from
+      the store with promo code: **SUPER10**. Or, you may wanna free shipping,
+      get free shipping when ordering two or more products with promotion code:
+      **SHIPFREE**. Or even that isn't enough because you may want to order
+      three or more products. In that case, use promo code: **SOLAR30** when
+      ordering three or more products from the store to get 30% off your final
+      price.
     actions:
       - type: Button
         label: Sign Up
