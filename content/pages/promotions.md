@@ -53,7 +53,7 @@ sections:
       price.
     actions:
       - type: Button
-        label: Sign Up
+        label: GET THE DEALS
         url: /
         style: primary
     media:
