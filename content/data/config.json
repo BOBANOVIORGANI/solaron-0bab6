@@ -19,9 +19,9 @@
                 "label": "B1"
             },
             {
-                "label": "M1",
+                "label": "P1",
                 "altText": "",
-                "url": "/solarpower-m1",
+                "url": "/solarpower-p1",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
@@ -29,9 +29,9 @@
                 "type": "Link"
             },
             {
-                "label": "P1",
+                "label": "M1",
                 "altText": "",
-                "url": "/solarpower-p1",
+                "url": "/solarpower-m1",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
