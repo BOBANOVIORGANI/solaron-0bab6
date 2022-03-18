@@ -121,7 +121,7 @@
             {
                 "label": "PROMOTIONS",
                 "altText": "",
-                "url": "/country-list",
+                "url": "/promotions",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
