@@ -8,7 +8,7 @@ sections:
     title: Hello customer
     subtitle: 'Charge smart, worry less.'
     actions:
-      - label: GET NOW
+      - label: SHOP
         altText: ''
         url: 'https://solarow.bigcartel.com/'
         showIcon: false
