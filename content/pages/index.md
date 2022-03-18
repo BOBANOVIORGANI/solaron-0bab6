@@ -5,7 +5,7 @@ sections:
   - type: HeroSection
     elementId: homepage-hero-1
     colors: colors-a
-    title: Welcome to the future
+    title: Hello customer
     subtitle: 'Charge smart, worry less.'
     actions:
       - label: GET NOW
