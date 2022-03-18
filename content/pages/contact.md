@@ -50,7 +50,7 @@ sections:
         - type: CheckboxFormControl
           name: updates
           label: Subscribe to newsletter
-          isRequired: true
+          isRequired: false
           width: full
       submitLabel: Send Message
     media: null
