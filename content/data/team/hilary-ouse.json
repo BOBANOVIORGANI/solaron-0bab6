@@ -3,7 +3,7 @@
     "firstName": "Marin",
     "lastName": "Golub",
     "role": "CEO",
-    "bio": "CEO and director of the company. He devised SOLAROW in 2022.\n",
+    "bio": "CEO and director of the company.\n",
     "image": {
         "type": "ImageBlock",
         "url": "/images/IMG_20211118_103451_855.jpg",
