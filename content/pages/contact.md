@@ -49,7 +49,7 @@ sections:
           type: TextareaFormControl
         - type: CheckboxFormControl
           name: updates
-          label: Subscribeto newsletter
+          label: Subscribe to newsletter
           isRequired: false
           width: full
       submitLabel: Send Message
