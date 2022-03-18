@@ -34,7 +34,7 @@ sections:
   - elementId: ''
     colors: colors-a
     backgroundSize: full
-    title: 'Get the discount when '
+    title: Get the discount
     subtitle: ''
     badge:
       label: DISCOUNTS
