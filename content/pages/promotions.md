@@ -54,7 +54,7 @@ sections:
     actions:
       - type: Button
         label: GET THE DEALS
-        url: /
+        url: 'https://solarow.bigcartel.com/'
         style: primary
     media:
       type: ImageBlock
