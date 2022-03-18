@@ -28,7 +28,7 @@ sections:
       of the PowerBank, and more colours than regular black and white.
     actions:
       - type: Button
-        label: '24.99'
+        label: '29.99'
         url: 'https://solarow.bigcartel.com/product/solarpower-b1'
         style: primary
     media:
