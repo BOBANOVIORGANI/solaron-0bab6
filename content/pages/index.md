@@ -321,7 +321,7 @@ sections:
   - elementId: ''
     colors: colors-a
     backgroundSize: full
-    title: Sign up today
+    title: Subscribe to newsletter!
     text: >
       Be notified about newest products, promotions, and other tech news from
       our website.
