@@ -39,19 +39,7 @@
                 "label": "B1"
             }
         ],
-        "secondaryLinks": [
-            {
-                "label": "REGISTER",
-                "altText": "",
-                "url": "https://form.jotform.com/220763604113345",
-                "showIcon": false,
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "elementId": "",
-                "type": "Button"
-            }
-        ],
+        "secondaryLinks": [],
         "styles": {
             "self": {
                 "width": "narrow",
