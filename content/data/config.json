@@ -190,7 +190,7 @@
             "self": {
                 "width": "narrow",
                 "padding": [
-                    "pt-1",
+                    "pt-3",
                     "pb-16",
                     "pr-4",
                     "pl-4"
