@@ -4,7 +4,7 @@ metaDescription: >-
   Our company's privacy policy. Everything you set as a shipping or payment
   info, we don't store. Since 2022.
 addTitleSuffix: true
-socialImage: /images/SOLAROW (1).png
+socialImage: /images/SOLAROW (3)-adcc0af3.png
 metaTags: []
 title: Privacy Policy
 sections:
