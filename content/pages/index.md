@@ -19,7 +19,7 @@ sections:
         type: Button
     media:
       type: ImageBlock
-      url: /images/solarow-5cb6648e.png
+      url: '/images/[Izvorna veličina] [Izvorna veličina] Bez naslova-715b0beb.png'
       altText: Image alt text
       caption: Image caption
     styles:
