@@ -172,14 +172,6 @@
                 "icon": "facebook",
                 "style": "link",
                 "elementId": ""
-            },
-            {
-                "label": "LinkedIn",
-                "altText": "",
-                "url": "https://www.linkedin.com/in/marin-golub-a05a4b225/",
-                "icon": "facebook",
-                "style": "link",
-                "elementId": ""
             }
         ],
         "legalLinks": [
