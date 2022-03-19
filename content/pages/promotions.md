@@ -2,7 +2,7 @@
 metaTitle: null
 metaDescription: null
 addTitleSuffix: true
-socialImage: null
+socialImage: /images/SOLAROW (3)-176940d9.png
 metaTags: []
 title: Promotions
 sections:
