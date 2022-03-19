@@ -21,7 +21,7 @@ sections:
       type: ImageBlock
       url: >-
         /images/[Izvorna veličina] [Izvorna veličina] Bez naslova
-        (1)-3b7dbd01.png
+        (4)-21ff7f5a.png
       altText: Image alt text
       caption: Image caption
     styles:
