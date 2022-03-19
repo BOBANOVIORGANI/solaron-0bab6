@@ -4,7 +4,7 @@ metaDescription: >-
   Company's terms and conditions. These terms are her for understand when using
   our service. Since 2022.
 addTitleSuffix: true
-socialImage: /images/SOLAROW (1).png
+socialImage: /images/SOLAROW (3)-bda41972.png
 metaTags: []
 title: Terms & Conditions
 sections:
