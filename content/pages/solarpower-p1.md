@@ -4,7 +4,7 @@ metaDescription: >-
   The newest product from SOLAROW. Great product for value with some unusual
   features. Since 2022.
 addTitleSuffix: true
-socialImage: /images/SOLAROW (1).png
+socialImage: /images/SOLAROW (3)-948c26da.png
 metaTags: []
 title: SolarPower P1
 sections:
