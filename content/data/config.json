@@ -88,16 +88,6 @@
         "copyrightText": "SOLAROW © 2022\n\n",
         "primaryLinks": [
             {
-                "label": "SolarPower M1",
-                "altText": "",
-                "url": "/solarpower-m1",
-                "showIcon": false,
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "elementId": "",
-                "type": "Link"
-            },
-            {
                 "label": "PROMOTIONS",
                 "altText": "",
                 "url": "/promotions",
