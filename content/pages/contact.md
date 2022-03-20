@@ -2,7 +2,7 @@
 metaTitle: Contact us
 metaDescription: Contact and our support team will reply as soon as possible. Since 2022.
 addTitleSuffix: true
-socialImage: /images/SOLAROW (3)-b3735cdb.png
+socialImage: /images/SOLAROW (1)-5074eeb3.png
 metaTags: []
 title: Contact us
 sections:
