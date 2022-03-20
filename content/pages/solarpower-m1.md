@@ -179,7 +179,7 @@ sections:
   - colors: colors-a
     elementId: ''
     title: Gallery
-    subtitle: This is the subtitle
+    subtitle: Picture product you may buy
     images:
       - type: ImageBlock
         url: 'https://assets.stackbit.com/components/images/default/image-1.jpeg'
