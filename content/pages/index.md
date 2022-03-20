@@ -5,7 +5,7 @@ sections:
   - type: HeroSection
     elementId: homepage-hero-1
     colors: colors-a
-    subtitle: 'Charge smart, worry less.'
+    subtitle: 'You are happy, Stuggie is happy.'
     actions:
       - label: SHOP
         altText: ''
