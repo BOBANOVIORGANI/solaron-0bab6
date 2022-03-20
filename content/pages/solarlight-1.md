@@ -256,7 +256,7 @@ sections:
         type: ImageBlock
       - url: >-
           /images/Bike-Light-Solar-USB-Rechargeable-Double-Charging-Horn-Lamp-Waterproof-Bicycle-Headlight-Bike-Front-Light-Waterproof.jpg_640x640.webp
-        altText: 'SolarLight 1 '
+        altText: SolarLight 1 Sun Orange
         caption: Caption of the image
         elementId: ''
         styles:
