@@ -243,7 +243,7 @@ sections:
           /images/Bike-Light-Solar-USB-Rechargeable-Double-Charging-Horn-Lamp-Waterproof-Bicycle-Headlight-Bike-Front-Light-Waterproof.jpg_640x640
           (2).webp
         altText: SolarLight 1 Sky Blue
-        caption: SL1 Coal Black
+        caption: SL1 Sky Blue
       - url: >-
           /images/Bike-Light-Solar-USB-Rechargeable-Double-Charging-Horn-Lamp-Waterproof-Bicycle-Headlight-Bike-Front-Light-Waterproof.jpg_640x640
           (1).webp
