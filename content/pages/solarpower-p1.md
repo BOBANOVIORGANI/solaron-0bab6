@@ -190,7 +190,6 @@ sections:
         caption: Image two caption
       - type: ImageBlock
         url: /images/He606ff62b04c4d59a3e668840747c0b1V.webp
-        caption: Image three caption
       - type: ImageBlock
         url: /images/Hfc3081300f164f8aba473b43419c0529r.webp
         altText: Image four
