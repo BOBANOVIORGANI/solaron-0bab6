@@ -205,8 +205,7 @@ sections:
           self:
             opacity: 100
         type: ImageBlock
-      - url: >-
-          https://assets.stackbit.com/components/images/default/default-image.png
+      - url: /images/Hf3aec3b6f10f41f589e79a2ae8c0d7c7r.jpg
         altText: altText of the image
         caption: Caption of the image
         elementId: ''
