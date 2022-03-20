@@ -88,7 +88,7 @@ sections:
     type: FaqSection
 metaTitle: FAQ
 addTitleSuffix: true
-socialImage: /images/SOLAROW (3)-dc438838.png
+socialImage: /images/SOLAROW (1)-0f31ac25.png
 metaDescription: >-
   Every question you might wanna ask, but if you still have a question, ask us.
   Since 2022.
