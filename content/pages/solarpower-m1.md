@@ -34,7 +34,9 @@ sections:
         style: primary
     media:
       type: ImageBlock
-      url: /images/m1.png
+      url: >-
+        /images/99000mAh-Solar-Power-Bank-with-Large-Capacity-LED-Light-Outdoor-Travel-Emergency-Portable-Poverbank-for-Iphone.jpg_640x640
+        (1).webp
       altText: Hero image
     styles:
       self:
