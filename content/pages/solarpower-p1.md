@@ -195,7 +195,7 @@ sections:
         altText: Image three
         caption: Image three caption
       - type: ImageBlock
-        url: 'https://assets.stackbit.com/components/images/default/image-4.jpeg'
+        url: /images/Hfc3081300f164f8aba473b43419c0529r.webp
         altText: Image four
         caption: Image four caption
     spacing: 1
