@@ -186,7 +186,7 @@ sections:
         altText: Image one
         caption: Image one caption
       - type: ImageBlock
-        url: 'https://assets.stackbit.com/components/images/default/image-2.jpeg'
+        url: /images/Hc5ec896dbbd84552b2ba70aa874bb87aA-9d31a0aa.jpg
         altText: Image two
         caption: Image two caption
       - type: ImageBlock
