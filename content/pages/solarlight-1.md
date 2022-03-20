@@ -95,8 +95,8 @@ sections:
       - type: FeaturedItem
         title: Good battery
         text: >
-          It's huge battery will be enough to charge four smartphones multiple
-          times.
+          It's huge battery will be enough to work 1 month without need for
+          solar or wired charging.
         featuredImage:
           type: ImageBlock
           url: /images/focused.svg
