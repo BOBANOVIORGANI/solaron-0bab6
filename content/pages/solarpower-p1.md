@@ -185,7 +185,6 @@ sections:
     images:
       - type: ImageBlock
         url: /images/H0a8d212bbf3b4ee6ac3908743f5f0e1bA.webp
-        caption: Image one caption
       - type: ImageBlock
         url: /images/H2fd8fc2469b24af88c3a5e696b5c76f4c.webp
         altText: Image two
