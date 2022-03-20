@@ -71,8 +71,8 @@ sections:
       - type: FeaturedItem
         title: USB charging
         text: >
-          You can securely charge your phone(s) wired and wireless, up to four
-          phones at the same time.
+          Lamp has Lithium battery so you won't need to replace it, instead, you
+          will be able to charge it with USB cable.
         featuredImage:
           type: ImageBlock
           url: /images/faster.svg
