@@ -245,7 +245,8 @@ sections:
         altText: SolarPower M1 Coal Black
         caption: M1 Coal Black
       - url: >-
-          https://assets.stackbit.com/components/images/default/default-image.png
+          /images/Bike-Light-Solar-USB-Rechargeable-Double-Charging-Horn-Lamp-Waterproof-Bicycle-Headlight-Bike-Front-Light-Waterproof.jpg_640x640
+          (1).webp
         altText: altText of the image
         caption: Caption of the image
         elementId: ''
