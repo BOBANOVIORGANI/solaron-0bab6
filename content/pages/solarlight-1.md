@@ -35,8 +35,7 @@ sections:
     media:
       type: ImageBlock
       url: >-
-        /images/99000mAh-Solar-Power-Bank-with-Large-Capacity-LED-Light-Outdoor-Travel-Emergency-Portable-Poverbank-for-Iphone.jpg_640x640
-        (1).webp
+        /images/Bike-Light-Solar-USB-Rechargeable-Double-Charging-Horn-Lamp-Waterproof-Bicycle-Headlight-Bike-Front-Light-Waterproof.jpg_640x640-4ebfcbc0.webp
       altText: Hero image
     styles:
       self:
