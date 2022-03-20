@@ -320,8 +320,9 @@ sections:
       - type: FeaturedItem
         title: Focused
         text: >
-          It is focused to the smartphone and tablet lines, no matter does it or
-          doesn't support wireless charging.
+          They are focused to peoples who want to have different products with
+          smarter charging way, but still not give huge amount of money for that
+          kind of product.
         featuredImage:
           url: /images/1828178.png
           altText: altText of the image
