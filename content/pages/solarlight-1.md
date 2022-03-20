@@ -239,7 +239,9 @@ sections:
         altText: SolarPower M1 Rose Red
         caption: M1 Rose Red
       - type: ImageBlock
-        url: /images/m1black.png
+        url: >-
+          /images/Bike-Light-Solar-USB-Rechargeable-Double-Charging-Horn-Lamp-Waterproof-Bicycle-Headlight-Bike-Front-Light-Waterproof.jpg_640x640
+          (2).webp
         altText: SolarPower M1 Coal Black
         caption: M1 Coal Black
     spacing: 1
