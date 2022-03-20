@@ -182,7 +182,7 @@ sections:
     subtitle: Picture product you may buy
     images:
       - type: ImageBlock
-        url: 'https://assets.stackbit.com/components/images/default/image-1.jpeg'
+        url: /images/Hc5ec896dbbd84552b2ba70aa874bb87aA.jpg
         altText: Image one
         caption: Image one caption
       - type: ImageBlock
