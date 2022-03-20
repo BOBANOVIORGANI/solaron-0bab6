@@ -20,13 +20,13 @@ sections:
         self:
           textAlign: left
     text: >
-      Why you should get this PowerBank over the others you might ask? Well, for
-      first, this product is not designed for exact smartphone linup or brand,
-      any smartphone will charge at max speed that device support. Also, for
-      this price, you get some of the amazing features that you won't get with
-      most of the other PowerBanks, like already mentioned, solar replenishment
-      of the PowerBank, wireless charging, and more colours than regular black
-      and white.
+      Why you should get this lamp over the others you might ask? Well, for
+      first, this lamp has chargable battery so you won't need to change it when
+      it get empty, you will be able to charge it with your USB cable or solar
+      energy which is the main concept. Also, for this price, you get some of
+      the amazing features that you won't get with most of the other lamps, like
+      already mentioned, solar replenishment of the lamps and more colours than
+      regular.
     actions:
       - type: Button
         label: '29.99'
