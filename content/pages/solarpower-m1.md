@@ -197,6 +197,15 @@ sections:
         url: /images/H58f7f7d0ed2547f288eb4a3c86322fdah.jpg
         altText: Image four
         caption: Image four caption
+      - url: >-
+          https://assets.stackbit.com/components/images/default/default-image.png
+        altText: altText of the image
+        caption: Caption of the image
+        elementId: ''
+        styles:
+          self:
+            opacity: 100
+        type: ImageBlock
     spacing: 1
     columns: 2
     aspectRatio: '1:1'
