@@ -187,7 +187,6 @@ sections:
         url: /images/H0a8d212bbf3b4ee6ac3908743f5f0e1bA.webp
       - type: ImageBlock
         url: /images/H2fd8fc2469b24af88c3a5e696b5c76f4c.webp
-        caption: Image two caption
       - type: ImageBlock
         url: /images/He606ff62b04c4d59a3e668840747c0b1V.webp
         altText: Image three
