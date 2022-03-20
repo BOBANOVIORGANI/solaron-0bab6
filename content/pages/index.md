@@ -120,7 +120,7 @@ sections:
     media:
       type: ImageBlock
       url: >-
-        /images/NEW-RT-PINZHENG-Mini-Solar-Power-Bank-5000-10000mAh-Power-Bank-For-Phone-Powerbank-External-Spare.jpg_Q90.jpg_.png
+        /images/Solar-Portable-Mini-50000mAh-Power-Bank-Large-Capacity-Charger-Fast-Charging-Battery-Powerbank-for-IPhone-Samsung.jpg_640x640.webp
       altText: Hero section image
     styles:
       self:
