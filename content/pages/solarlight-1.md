@@ -190,7 +190,7 @@ sections:
     subtitle: Picture this product
     images:
       - type: ImageBlock
-        url: /images/H16f22a9f18e74ca3af903d8687f51ff2a.webp
+        url: /images/H57164fa4995c40f0955a946c06228a87o.webp
       - type: ImageBlock
         url: /images/H8bb4bc79ef5d4746ac031c9caf3a16d3w.webp
       - type: ImageBlock
