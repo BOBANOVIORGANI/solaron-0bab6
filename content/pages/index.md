@@ -237,7 +237,6 @@ sections:
       type: ImageBlock
       url: >-
         /images/Solar-Bike-Light-Front-Flashlight-with-Horn-Bicycle-Lantern-USB-Rechargeable-Lamp-Taillight-Luces-Bicicleta-Cycling.jpg_640x640.webp
-      altText: Hero image
     styles:
       self:
         height: auto
