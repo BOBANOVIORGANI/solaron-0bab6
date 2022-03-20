@@ -18,9 +18,7 @@ sections:
         type: Button
     media:
       type: ImageBlock
-      url: >-
-        /images/[Izvorna veličina] [Izvorna veličina] Bez naslova
-        (4)-21ff7f5a.png
+      url: /images/stuggie.png
       altText: Image alt text
       caption: Image caption
     styles:
