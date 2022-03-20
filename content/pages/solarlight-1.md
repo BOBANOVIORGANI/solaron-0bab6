@@ -6,7 +6,7 @@ metaDescription: >-
 addTitleSuffix: true
 socialImage: /images/SOLAROW (1)-0f31ac25.png
 metaTags: []
-title: SolarPower M1
+title: SolarLight 1
 sections:
   - elementId: ''
     colors: colors-a
