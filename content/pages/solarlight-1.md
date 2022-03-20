@@ -69,7 +69,7 @@ sections:
     subtitle: Excellent features that this PowerBank has but most don't.
     items:
       - type: FeaturedItem
-        title: Fast charging
+        title: USB charging
         text: >
           You can securely charge your phone(s) wired and wireless, up to four
           phones at the same time.
