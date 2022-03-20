@@ -62,11 +62,10 @@ sections:
           Still have questions? Contact us and we will answer as soon as
           possible.
       - question: What is SolarLight?
-        answer: >-
-          At the office, working together is often a distruction, on remote, it
-          could be motivation. At the office, working together is often a
-          distruction, on remote, it could be motivation. At the office, working
-          together is often a distruction, on remote, it could be motivation.
+        answer: >
+          SolarLight is horn lamp series for your bike with Lithium battery
+          which can be charged with solar energy or USB cable. It is also
+          waterproof so rain won't damage your lamp.
     styles:
       self:
         height: auto
