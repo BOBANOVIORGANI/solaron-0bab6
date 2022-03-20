@@ -186,7 +186,6 @@ sections:
         url: /images/Hf1f76d8b001a41429d458f45285f6d52R.jpg
       - type: ImageBlock
         url: /images/Hc5ec896dbbd84552b2ba70aa874bb87aA-9d31a0aa.jpg
-        altText: Image two
         caption: Image two caption
       - type: ImageBlock
         url: /images/H576f4a41d90345fb97d83c5d907eda22o.jpg
