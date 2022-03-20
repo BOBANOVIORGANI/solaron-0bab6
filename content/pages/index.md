@@ -215,7 +215,7 @@ sections:
     title: 'A great feature, we’re proud of'
     subtitle: ''
     badge:
-      label: This is the badge
+      label: SL1
       elementId: ''
       styles:
         self:
