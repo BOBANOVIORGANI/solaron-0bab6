@@ -224,7 +224,15 @@ sections:
       Great lamp what can help you when you are riding in the dark, it's battery
       indicator will let you know when to charge it's battery instead of
       replacing it. Charging it at the day ride will save energy for night ones.
-    actions: []
+    actions:
+      - label: Learn more
+        altText: ''
+        url: /
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        elementId: ''
+        type: Link
     media:
       type: ImageBlock
       url: /images/hero-2.png
