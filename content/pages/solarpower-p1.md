@@ -34,7 +34,7 @@ sections:
         style: primary
     media:
       type: ImageBlock
-      url: /images/p1.png
+      url: /images/He8116ec07794437eb5f745eadfe55de2j.webp
       altText: Hero image
     styles:
       self:
