@@ -191,7 +191,6 @@ sections:
         altText: Image three
       - type: ImageBlock
         url: /images/Hc72236a81ecc4efabb2c4cdb579dd65aQ.webp
-        altText: Image four
     spacing: 1
     columns: 2
     aspectRatio: '1:1'
