@@ -67,7 +67,7 @@ sections:
     media:
       type: ImageBlock
       url: >-
-        /images/99000mAh-Solar-Power-Bank-Large-Capacity-Portable-Charger-2USBcellphone-Battery-Outdoor-Waterproof-Power-Bank-for-Xiaomi.jpg_Q90.jpg_.webp
+        /images/99000mAh-Solar-Power-Bank-with-Large-Capacity-LED-Light-Outdoor-Travel-Emergency-Portable-Poverbank-for-Iphone.jpg_640x640.webp
       altText: Hero section image
     styles:
       self:
