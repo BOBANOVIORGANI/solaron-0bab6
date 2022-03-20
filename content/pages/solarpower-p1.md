@@ -25,7 +25,8 @@ sections:
       any smartphone will charge at max speed that device support. Also, for
       this price, you get some of the amazing features that you won't get with
       most of the other PowerBanks, like already mentioned, solar replenishment
-      of the PowerBank, and more colours than regular black and white.
+      of the PowerBank, flashlight, and more colours than regular black and
+      white.
     actions:
       - type: Button
         label: '19.99'
