@@ -271,7 +271,7 @@ sections:
         title: Ecofriendly
         text: >
           They are made of recycle and degradable materials what doesn't affect
-          to the nature.
+          to the nature even if you trow it away for some reason.
         featuredImage:
           url: /images/1460537.png
           altText: altText of the image
