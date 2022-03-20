@@ -19,11 +19,10 @@ sections:
           PowerBank. It has USB slots for charging your devices non-wirelessly.
           The PowerBank itself will charge whenever it gets enough solar energy
           (aka. sunshine).
-      - answer: >-
-          At the office, working together is often a distruction, on remote, it
-          could be motivation. At the office, working together is often a
-          distruction, on remote, it could be motivation. At the office, working
-          together is often a distruction, on remote, it could be motivation.
+      - answer: >
+          Wireless charging coil have just SolarPower M1, so if you want
+          PowerBank with wireless charging support, then SolarPower M1 is our
+          only option.
         question: Does this PowerBanks have wireless charging coil?
       - question: Is shopping safe here?
         answer: >
