@@ -121,7 +121,6 @@ sections:
       type: ImageBlock
       url: >-
         /images/Solar-Portable-Mini-50000mAh-Power-Bank-Large-Capacity-Charger-Fast-Charging-Battery-Powerbank-for-IPhone-Samsung.jpg_640x640.webp
-      altText: Hero section image
     styles:
       self:
         height: auto
