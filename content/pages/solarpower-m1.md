@@ -182,7 +182,7 @@ sections:
     subtitle: Picture this product
     images:
       - type: ImageBlock
-        url: 'https://assets.stackbit.com/components/images/default/image-1.jpeg'
+        url: /images/Hf1f76d8b001a41429d458f45285f6d52R.jpg
         altText: Image one
         caption: Image one caption
       - type: ImageBlock
