@@ -233,7 +233,9 @@ sections:
     subtitle: PowerBank colours what you can get
     images:
       - type: ImageBlock
-        url: /images/m1red.png
+        url: >-
+          /images/Bike-Light-Solar-USB-Rechargeable-Double-Charging-Horn-Lamp-Waterproof-Bicycle-Headlight-Bike-Front-Light-Waterproof.jpg_640x640
+          (3).webp
         altText: SolarPower M1 Rose Red
         caption: M1 Rose Red
       - type: ImageBlock
