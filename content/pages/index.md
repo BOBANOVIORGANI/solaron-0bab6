@@ -295,8 +295,8 @@ sections:
       - type: FeaturedItem
         title: Smarter
         text: >
-          When the PowerBank is charged to the max, it will automatically stop
-          charging to extend the battery.
+          When the PowerBanks and lamp are charged to the max, it will
+          automatically stop charging to extend the battery.
         featuredImage:
           url: /images/2914281.png
           altText: altText of the image
