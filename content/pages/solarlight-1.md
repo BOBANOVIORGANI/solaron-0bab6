@@ -11,7 +11,7 @@ sections:
   - elementId: ''
     colors: colors-a
     backgroundSize: full
-    title: Get the PowerBank
+    title: Get the Lamp
     subtitle: ''
     badge:
       label: SolarPower M1
