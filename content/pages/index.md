@@ -180,8 +180,7 @@ sections:
         type: Link
     media:
       type: ImageBlock
-      url: >-
-        /images/Solar-Power-Bank-20000-mAh-External-Battery-Portable-Fast-Phone-Charger-Poverbank-For-iPhone-Xiaomi-Huawei.jpg_Q90.jpg_.webp
+      url: /images/1647368293288.png
       altText: Hero image
     styles:
       self:
