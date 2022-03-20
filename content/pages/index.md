@@ -232,7 +232,7 @@ sections:
         iconPosition: right
         elementId: ''
         type: Link
-        url: /solarlight
+        url: /solarlight-1
     media:
       type: ImageBlock
       url: /images/hero-2.png
