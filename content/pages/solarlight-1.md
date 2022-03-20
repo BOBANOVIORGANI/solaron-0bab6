@@ -14,7 +14,7 @@ sections:
     title: Get the Lamp
     subtitle: ''
     badge:
-      label: SolarPower M1
+      label: SolarLight 1
       elementId: ''
       styles:
         self:
