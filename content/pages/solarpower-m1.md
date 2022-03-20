@@ -190,7 +190,6 @@ sections:
         url: /images/H576f4a41d90345fb97d83c5d907eda22o.jpg
         caption: Image three caption
       - url: /images/H303f43d5c23b4b1282d12741906df990O.jpg
-        caption: Caption of the image
         elementId: ''
         styles:
           self:
