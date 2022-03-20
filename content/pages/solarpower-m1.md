@@ -190,7 +190,7 @@ sections:
         altText: Image two
         caption: Image two caption
       - type: ImageBlock
-        url: 'https://assets.stackbit.com/components/images/default/image-3.jpeg'
+        url: /images/H576f4a41d90345fb97d83c5d907eda22o.jpg
         altText: Image three
         caption: Image three caption
       - type: ImageBlock
