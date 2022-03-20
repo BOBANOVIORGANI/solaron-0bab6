@@ -194,7 +194,6 @@ sections:
         altText: Image three
         caption: Image three caption
       - type: ImageBlock
-        url: /images/H58f7f7d0ed2547f288eb4a3c86322fdah.jpg
         altText: Image four
         caption: Image four caption
       - url: /images/H303f43d5c23b4b1282d12741906df990O.jpg
