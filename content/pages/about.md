@@ -4,7 +4,7 @@ metaDescription: >-
   About team SOLAROW and each member. We are working hard to make you the best
   possible product for the value. Since 2022.
 addTitleSuffix: true
-socialImage: /images/SOLAROW (3)-9b622d9f.png
+socialImage: /images/SOLAROW (1)-0f31ac25.png
 metaTags: []
 title: About
 sections:
