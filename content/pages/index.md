@@ -321,8 +321,8 @@ sections:
         title: Focused
         text: >
           They are focused to peoples who want to have different products with
-          smarter charging way, but still not give huge amount of money for that
-          kind of product.
+          smarter charging way, but still not give huge amount of money for
+          that.
         featuredImage:
           url: /images/1828178.png
           altText: altText of the image
