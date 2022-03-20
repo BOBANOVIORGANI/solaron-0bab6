@@ -11,7 +11,7 @@ sections:
           SOLAROW is tech equipment company who is specialised for solar
           additions for smartphone. Company is found in 2022, and since then,
           they are producing smart additions.
-      - question: What is SolarPower B1?
+      - question: What is SolarPower?
         answer: >
           SolarPower B1 is wireless powerbank that works on concept that you
           don't always need to fully charge PowerBank in home, but you can let
