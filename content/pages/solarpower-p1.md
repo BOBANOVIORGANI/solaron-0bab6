@@ -192,7 +192,6 @@ sections:
         url: /images/He606ff62b04c4d59a3e668840747c0b1V.webp
       - type: ImageBlock
         url: /images/Hfc3081300f164f8aba473b43419c0529r.webp
-        caption: Image four caption
     spacing: 1
     columns: 2
     aspectRatio: '1:1'
