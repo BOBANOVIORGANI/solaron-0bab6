@@ -197,7 +197,7 @@ sections:
         url: /images/H58f7f7d0ed2547f288eb4a3c86322fdah.jpg
         altText: Image four
         caption: Image four caption
-      - url: /images/H87a40e7b0d4e4483b950f9fc9d12b1aaO.jpg
+      - url: /images/H303f43d5c23b4b1282d12741906df990O.jpg
         altText: altText of the image
         caption: Caption of the image
         elementId: ''
