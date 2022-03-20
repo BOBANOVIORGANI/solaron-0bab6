@@ -92,7 +92,7 @@ sections:
           self:
             textAlign: center
       - type: FeaturedItem
-        title: Huge battery
+        title: Good battery
         text: >
           It's huge battery will be enough to charge four smartphones multiple
           times.
