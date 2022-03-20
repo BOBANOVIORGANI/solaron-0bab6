@@ -192,7 +192,7 @@ sections:
       - type: ImageBlock
         url: /images/H16f22a9f18e74ca3af903d8687f51ff2a.webp
       - type: ImageBlock
-        url: /images/Hc5ec896dbbd84552b2ba70aa874bb87aA-9d31a0aa.jpg
+        url: /images/H8bb4bc79ef5d4746ac031c9caf3a16d3w.webp
       - type: ImageBlock
         url: /images/H576f4a41d90345fb97d83c5d907eda22o.jpg
       - url: /images/H303f43d5c23b4b1282d12741906df990O.jpg
