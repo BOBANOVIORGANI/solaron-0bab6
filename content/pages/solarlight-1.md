@@ -236,7 +236,7 @@ sections:
         url: >-
           /images/Bike-Light-Solar-USB-Rechargeable-Double-Charging-Horn-Lamp-Waterproof-Bicycle-Headlight-Bike-Front-Light-Waterproof.jpg_640x640
           (3).webp
-        altText: SolarLight M1 Rose Red
+        altText: SolarLight 1 Rose Red
         caption: M1 Rose Red
       - type: ImageBlock
         url: >-
