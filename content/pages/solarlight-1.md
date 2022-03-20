@@ -255,7 +255,7 @@ sections:
             opacity: 100
         type: ImageBlock
       - url: >-
-          https://assets.stackbit.com/components/images/default/default-image.png
+          /images/Bike-Light-Solar-USB-Rechargeable-Double-Charging-Horn-Lamp-Waterproof-Bicycle-Headlight-Bike-Front-Light-Waterproof.jpg_640x640.webp
         altText: altText of the image
         caption: Caption of the image
         elementId: ''
