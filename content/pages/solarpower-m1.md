@@ -70,8 +70,8 @@ sections:
       - type: FeaturedItem
         title: Fast charging
         text: >
-          You can securely charge your phone(s) wired, up to two phones at the
-          same time.
+          You can securely charge your phone(s) wired and wireless, up to four
+          phones at the same time.
         featuredImage:
           type: ImageBlock
           url: /images/faster.svg
