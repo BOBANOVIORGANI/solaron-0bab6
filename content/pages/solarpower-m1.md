@@ -201,13 +201,6 @@ sections:
           self:
             opacity: 100
         type: ImageBlock
-      - altText: altText of the image
-        caption: Caption of the image
-        elementId: ''
-        styles:
-          self:
-            opacity: 100
-        type: ImageBlock
     spacing: 1
     columns: 2
     aspectRatio: '1:1'
