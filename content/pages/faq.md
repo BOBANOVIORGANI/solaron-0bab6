@@ -64,8 +64,11 @@ sections:
       - question: What is SolarLight?
         answer: >
           SolarLight is horn lamp series for your bike with Lithium battery
-          which can be charged with solar energy or USB cable. It is also
-          waterproof so rain won't damage your lamp.
+          which can be charged with solar energy or USB cable. It has battery
+          indicator so you can know how much it is charged, and it is also
+          waterproof so rain won't damage your lamp. Even if happen that you are
+          riding on a bike at night and your lamp isn't charged, you can use
+          your SolarPower PowerBank at least to turn the lamp on when riding.
     styles:
       self:
         height: auto
