@@ -212,7 +212,7 @@ sections:
   - elementId: ''
     colors: colors-a
     backgroundSize: full
-    title: 'A great feature, we’re proud of'
+    title: Or something else?
     subtitle: ''
     badge:
       label: SL1
