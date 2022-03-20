@@ -204,8 +204,7 @@ sections:
           self:
             opacity: 100
         type: ImageBlock
-      - url: /images/Hf3aec3b6f10f41f589e79a2ae8c0d7c7r.jpg
-        altText: altText of the image
+      - altText: altText of the image
         caption: Caption of the image
         elementId: ''
         styles:
