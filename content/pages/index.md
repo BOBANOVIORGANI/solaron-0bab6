@@ -232,6 +232,7 @@ sections:
         iconPosition: right
         elementId: ''
         type: Link
+        url: /solarlight
     media:
       type: ImageBlock
       url: /images/hero-2.png
