@@ -24,6 +24,7 @@ sections:
           could be motivation. At the office, working together is often a
           distruction, on remote, it could be motivation. At the office, working
           together is often a distruction, on remote, it could be motivation.
+        question: 'Does '
       - question: Is shopping safe here?
         answer: >
           Shopping is simple. Like any other webstore. You just need to choose
