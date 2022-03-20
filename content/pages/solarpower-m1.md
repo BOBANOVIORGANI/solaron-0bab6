@@ -193,9 +193,6 @@ sections:
         url: /images/H576f4a41d90345fb97d83c5d907eda22o.jpg
         altText: Image three
         caption: Image three caption
-      - type: ImageBlock
-        altText: Image four
-        caption: Image four caption
       - url: /images/H303f43d5c23b4b1282d12741906df990O.jpg
         altText: altText of the image
         caption: Caption of the image
