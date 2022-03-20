@@ -230,7 +230,7 @@ sections:
   - colors: colors-a
     elementId: ''
     title: Variants
-    subtitle: PowerBank colours what you can get
+    subtitle: Lamp colours what you can get
     images:
       - type: ImageBlock
         url: >-
