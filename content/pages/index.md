@@ -262,7 +262,7 @@ sections:
     type: FeatureHighlightSection
   - colors: colors-a
     elementId: ''
-    title: Why you should get SolarPower?
+    title: Why you should get SolarProducts?
     subtitle: >-
       Some great features that will provide exactly the things you’re looking
       for.
