@@ -13,14 +13,12 @@ sections:
           they are producing smart additions.
       - question: What is SolarPower?
         answer: >
-          SolarPower B1 is wireless powerbank that works on concept that you
+          SolarPower is wireless PowerBank series that works on concept that you
           don't always need to fully charge PowerBank in home, but you can let
-          sun to the job. Solar Power B1 has one big solar panel on the back
-          side of PowerBank, and from the other side, it has wireless charging
-          coil with magnets to attach your smartphone what support wireless
-          charging. It also has USB slots for charging your devices
-          non-wirelessly. The PowerBank itself will charge whenever it gets
-          enough sun.
+          sun to the job. SolarPower has one big solar panel on the back side of
+          PowerBank. It has USB slots for charging your devices non-wirelessly.
+          The PowerBank itself will charge whenever it gets enough solar energy
+          (aka. sunshine).
       - question: Is shopping safe here?
         answer: >
           Shopping is simple. Like any other webstore. You just need to choose
