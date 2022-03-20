@@ -134,25 +134,30 @@ sections:
     backgroundSize: full
     title: About the SL1
     text: >
-      Introducing the future of smart charging.
+      Introducing the future of bike lamps.
 
 
-      Charge anytime, anywhere with SolarPower M1. Charge your devices secure
-      and plug in with a wired dock. It has a 100% efficiency rating to
-      guarantee a secure and reliable charge. And because it is a PowerBank, you
-      can charge the SolarPower M1 and charge your phone simultaneously for up
-      to four devices at a time. His 100000mAh battery is enough to charge your
-      smartphone many times, no matter will you charge wired or wireless, it
-      support both. “Life on the go is always a challenge''. For some, it’s
-      being able to charge devices fast. For others it's something second.
+      Bike horn light is battery powered and rechargeable with solar energy or
+      USB port\n - Ultra-bright light with a wide 120 degree angle of coverage,
+      will light up the path and turn your bike into a bright bike\n- Safety
+      bike horn has two modes: high light and low light\n- Three levels
+      adjustable light.
 
 
-      Don’t be put in the dark just because you ran out of battery. Now you can
-      have your power and backup your phone, tablet or other gadgets with this
-      solar-powered battery bank. With this PowerBank, you never have to worry
-      about running out of battery power for your devices again. This PowerBank
-      comes in two colours and charges in seconds. Comes with a unique LED
-      flashlight.
+
+      Good choice for your bike! The Light is a bicycle horn lamp with LED
+      light, which can charge itself with solar energy or USB port. Its led
+      indicator shows the charge status, so you can know when it is charged. The
+      lamps has a strong water resistant effect so no matter how much it rains,
+      solar light will stay alive. It is so easy to use and you can insert a USB
+      to power it.
+
+
+
+      This is the light you’ve been missing. It attaches to your bike easily and
+      is patent pending. It is made of tough anodized aluminum to assure
+      durability for years of reliable service. With this light, you can bike
+      24/7 even in the most extreme weather conditions.
     actions: []
     backgroundImage: null
     styles:
