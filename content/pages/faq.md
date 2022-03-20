@@ -19,7 +19,7 @@ sections:
           PowerBank. It has USB slots for charging your devices non-wirelessly.
           The PowerBank itself will charge whenever it gets enough solar energy
           (aka. sunshine).
-      - question: How is this different from what we have today?
+      - question: D
         answer: >-
           At the office, working together is often a distruction, on remote, it
           could be motivation. At the office, working together is often a
