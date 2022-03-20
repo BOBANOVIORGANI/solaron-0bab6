@@ -29,7 +29,7 @@ sections:
       and white.
     actions:
       - type: Button
-        label: '44.99'
+        label: '49.99'
         url: 'https://solarow.bigcartel.com/product/solarpower-m1'
         style: primary
     media:
