@@ -195,7 +195,7 @@ sections:
         url: /images/H8bb4bc79ef5d4746ac031c9caf3a16d3w.webp
       - type: ImageBlock
         url: /images/H259eefcd77884e9c9d167a0f56444cddu.webp
-      - url: /images/H303f43d5c23b4b1282d12741906df990O.jpg
+      - url: /images/H26b7f92ff80449119028ff5174dc5ef00.webp
         elementId: ''
         styles:
           self:
