@@ -248,7 +248,7 @@ sections:
           /images/Bike-Light-Solar-USB-Rechargeable-Double-Charging-Horn-Lamp-Waterproof-Bicycle-Headlight-Bike-Front-Light-Waterproof.jpg_640x640
           (1).webp
         altText: altText of the image
-        caption: SL 1
+        caption: SL 1Nature Green
         elementId: ''
         styles:
           self:
