@@ -24,7 +24,7 @@ sections:
           could be motivation. At the office, working together is often a
           distruction, on remote, it could be motivation. At the office, working
           together is often a distruction, on remote, it could be motivation.
-        question: 'Does this PowerBanks have '
+        question: Does this PowerBanks have wireless charging coil?
       - question: Is shopping safe here?
         answer: >
           Shopping is simple. Like any other webstore. You just need to choose
