@@ -130,7 +130,7 @@ sections:
   - elementId: ''
     colors: colors-a
     backgroundSize: full
-    title: About the B1
+    title: About the E1
     text: >+
       Introducing the future of smart charging.
 
