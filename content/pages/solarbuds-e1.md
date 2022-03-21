@@ -132,33 +132,7 @@ sections:
     colors: colors-a
     backgroundSize: full
     title: About the E1
-    text: >
-      Introducing the future of earbuds.
-
-
-      Wireless earbuds with solar charging ability that will least 5-6 hours
-      without charging case needed or up to 55 hours with it. Earbuds are
-      sweatproof and have HD voice call support. Earbuds have touch controls.
-      Wireless earbuds have built-in GSM with multicarrier connectivity and
-      Bluetooth 4.1. Earbuds have 10-hour battery life with wireless listening
-      time of 45 hours.
-
-
-      What do you want to listen to your earbuds for? You want to listen to your
-      favourite music so you can lose yourself in the moment. You want to make a
-      call or send a text so there is no need to grab your phone when you could
-      just answer or end a call without ever taking your eyes off the stream of
-      music. You want to watch the river flow, or the clouds overhead, without
-      having to take your eyes off the water or the sky.
-
-
-      Are you tired of your wireless earbuds dying out on you when you need them
-      the most? Want to listen to music while on your morning run without having
-      the hassle of plugging in your charging case? Then these headphones are
-      for you! SolarBuds are the only wireless earbuds with sweatproof and touch
-      controls with a solar charging system that keeps these wireless earbuds
-      charged up for up to 55 hours with the included case. It also has HD voice
-      call support for a smooth voice
+    text: "Introducing the future of earbuds.\n\nThe Ultra light-weight wireless earbuds called SolarBuds E1, is the best of the best for all users. Its features are unique and distinguishable from the others; with sweatproof, HD voice call support, 3D sound, and a piece of technology called an Active Noise Cancellation.\\n-Exclusive and characteristic features of E1\\n-Ultra light-weight wireless earbuds meant for all users\\n-Sweatproof design that prevents from getting\r hear and be heard with your SolarBuds E1s.\n\nIt’s time to cut the cord and go wireless. Power up the E1s with the touch of a button. The ergonomic design feels comfortable, and with its ability to charge wirelessly, you’ll never have to worry about sitting with a dead battery.\n\n\r\nAvoid your long, boring drives. These totally wireless, totally solar headphones from SolarBuds come ready to go, need no case, and last up to 6 hours. Or, use the built-in wireless charging case for an extra 55 hours of play. Sweatproof, comfortable, and has HD voice call support and 3D surround sound for gaming. The set also includes ANC to keep up with the highs and lows of your music. Just hit play and your tunes are ready to go.\n"
     actions: []
     backgroundImage: null
     styles:
