@@ -78,6 +78,7 @@ sections:
         styles:
           self:
             textAlign: center
+        title: Great battery
       - type: FeaturedItem
         title: HD voice calls
         text: >
