@@ -94,8 +94,8 @@ sections:
       - type: FeaturedItem
         title: Sweatproof
         text: >
-          It's great battery will provide 5-6 hours without charging case needed
-          or up to 55 with it.
+          If you are jogging or training something, your sweat won't affect
+          earbuds.
         featuredImage:
           type: ImageBlock
           url: /images/focused.svg
