@@ -19,6 +19,14 @@ sections:
           PowerBank. It has USB slots for charging your devices non-wirelessly.
           The PowerBank itself will charge whenever it gets enough solar energy
           (aka. sunshine).
+      - question: What is SolarLight?
+        answer: >
+          SolarLight is horn lamp series for your bike with Lithium battery
+          which can be charged with solar energy or USB cable. It has battery
+          indicator so you can know how much it is charged, and it is also
+          waterproof so rain won't damage your lamp. Even if happen that you are
+          riding on a bike at night and your lamp isn't charged, you can use
+          your SolarPower PowerBank at least to turn the lamp on when riding.
       - answer: >
           Wireless charging coil have just SolarPower M1, so if you want
           PowerBank with wireless charging support, then SolarPower M1 is our
@@ -61,14 +69,6 @@ sections:
         answer: >
           Still have questions? Contact us and we will answer as soon as
           possible.
-      - question: What is SolarLight?
-        answer: >
-          SolarLight is horn lamp series for your bike with Lithium battery
-          which can be charged with solar energy or USB cable. It has battery
-          indicator so you can know how much it is charged, and it is also
-          waterproof so rain won't damage your lamp. Even if happen that you are
-          riding on a bike at night and your lamp isn't charged, you can use
-          your SolarPower PowerBank at least to turn the lamp on when riding.
     styles:
       self:
         height: auto
