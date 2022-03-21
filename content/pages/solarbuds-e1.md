@@ -172,7 +172,7 @@ sections:
         url: /images/Sba3efc6b457d44929c4ed52f4e120a68g-e067010a.webp
         altText: Image three
       - type: ImageBlock
-        url: /images/Hc72236a81ecc4efabb2c4cdb579dd65aQ.webp
+        url: /images/S117a91a84c184bf3a1e9c11f0dd5dcdex.webp
     spacing: 1
     columns: 2
     aspectRatio: '1:1'
