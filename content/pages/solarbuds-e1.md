@@ -161,46 +161,6 @@ sections:
     type: CtaSection
   - colors: colors-a
     elementId: ''
-    title: Gallery
-    subtitle: Picture the product
-    images:
-      - type: ImageBlock
-        url: /images/S1c40c73288dc4d8fadb14a750c60e1b7P.webp
-      - type: ImageBlock
-        url: /images/Sba3efc6b457d44929c4ed52f4e120a68g.webp
-      - type: ImageBlock
-        url: /images/Sba3efc6b457d44929c4ed52f4e120a68g-e067010a.webp
-        altText: Image three
-      - type: ImageBlock
-        url: /images/S117a91a84c184bf3a1e9c11f0dd5dcdex.webp
-    spacing: 1
-    columns: 2
-    aspectRatio: '1:1'
-    imageSizePx: 300
-    showCaption: true
-    enableHover: true
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-12
-          - pb-12
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: center
-      subtitle:
-        textAlign: center
-    type: MediaGallerySection
-  - colors: colors-a
-    elementId: ''
     title: Variants
     subtitle: Earbuds colours what you can get
     images:
