@@ -280,7 +280,7 @@ sections:
     actions:
       - label: Learn more
         altText: ''
-        url: /
+        url: /solarbuds-e1
         showIcon: true
         icon: arrowRight
         iconPosition: right
