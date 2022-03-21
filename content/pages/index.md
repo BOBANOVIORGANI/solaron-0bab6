@@ -271,9 +271,10 @@ sections:
       styles:
         self:
           textAlign: left
-    text: >-
-      Share WIP, comment on each other’s work, approve what’s ready to go, ship
-      together
+    text: >
+      Charge your earbuds anywhere for 2 hours and use it 5-6 hours without
+      charging case or up to 55 hours with. It comes with Bluetooth 5.0,
+      sweatproof certificate, and HD voice call support.
     actions:
       - label: Learn more
         altText: ''
