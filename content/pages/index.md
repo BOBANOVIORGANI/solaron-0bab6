@@ -263,7 +263,7 @@ sections:
   - elementId: ''
     colors: colors-a
     backgroundSize: full
-    title: 'A great feature, we’re proud of'
+    title: Or earbuds?
     subtitle: ''
     badge:
       label: E1
