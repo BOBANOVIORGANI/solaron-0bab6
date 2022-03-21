@@ -65,7 +65,7 @@ sections:
   - colors: colors-h
     elementId: ''
     title: Why you should get it?
-    subtitle: Excellent features that this PowerBank has but most don't.
+    subtitle: Excellent features that this earbuds have but most don't.
     items:
       - type: FeaturedItem
         text: >
