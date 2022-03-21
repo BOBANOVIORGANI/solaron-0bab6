@@ -69,8 +69,8 @@ sections:
     items:
       - type: FeaturedItem
         text: >
-          You can securely charge your phone(s) wired, up to two phones at the
-          same time.
+          It's great battery will provide 5-6 hours without charging case needed
+          or up to 55 with it.
         featuredImage:
           type: ImageBlock
           url: /images/faster.svg
