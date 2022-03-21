@@ -233,7 +233,8 @@ sections:
           self:
             opacity: 100
         type: ImageBlock
-      - url: /images/HTB1Ncf5RVXXXXcrXpXXq6xXFXXXO.jpg
+      - url: >-
+          /images/Solar-charging-High-quality-Outdoor-TWS-Wireless-Bluetooth-Earphones-Sport-Music-Real-HiFi-Stereo-Earbud-For.jpg_640x640-d1cc04dd.webp
         altText: SolarBuds E1 Cloud White
         caption: E1 Cloud White
         elementId: ''
