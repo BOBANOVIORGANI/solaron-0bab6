@@ -92,9 +92,8 @@ sections:
             textAlign: center
       - type: FeaturedItem
         title: Great battery
-        text: >
-          With it's thin design, you will forget that you have PowerBank in your
-          hand.
+        text: |
+          It's great battery will provide 5-6 hours without charging case needed
         featuredImage:
           type: ImageBlock
           url: /images/focused.svg
