@@ -34,7 +34,7 @@ sections:
     media:
       type: ImageBlock
       url: >-
-        /images/Solar-charging-High-quality-Outdoor-TWS-Wireless-Bluetooth-Earphones-Sport-Music-Real-HiFi-Stereo-Earbud-For.jpg_640x640.webp
+        /images/Solar-charging-High-quality-Outdoor-TWS-Wireless-Bluetooth-Earphones-Sport-Music-Real-HiFi-Stereo-Earbud-For.jpg_Q90.jpg_.webp
       altText: Hero image
     styles:
       self:
