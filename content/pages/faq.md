@@ -77,11 +77,10 @@ sections:
           Still have questions? Contact us and we will answer as soon as
           possible.
       - question: Does SolarBuds support wireless charging?
-        answer: >-
-          At the office, working together is often a distruction, on remote, it
-          could be motivation. At the office, working together is often a
-          distruction, on remote, it could be motivation. At the office, working
-          together is often a distruction, on remote, it could be motivation.
+        answer: >
+          The answer is no, SolarBuds does not support wireless charging.
+          Instead of that, they support solar charging so you can charge in on a
+          day light.
     styles:
       self:
         height: auto
