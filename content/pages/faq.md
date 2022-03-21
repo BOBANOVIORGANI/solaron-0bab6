@@ -70,8 +70,12 @@ sections:
           Still have questions? Contact us and we will answer as soon as
           possible.
       - question: What is SolarEar?
-        answer: |
-          SolarEar is earbuds linup
+        answer: >
+          SolarBuds is wireless earbuds series that can like every other SOLAROW
+          product be charged by solar energy with solar panels. Earbuds also
+          have ANC, 3D sound, sweatproof certificate, long battery life, and
+          stable connection with both Android or iOS devices that support
+          Bluetooth 5.0.
     styles:
       self:
         height: auto
