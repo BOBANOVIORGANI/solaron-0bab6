@@ -165,7 +165,7 @@ sections:
     subtitle: Picture the product
     images:
       - type: ImageBlock
-        url: /images/Sba3efc6b457d44929c4ed52f4e120a68g-0bf91c73.webp
+        url: /images/S0460db731cd445ee9e84e6926fa5d4c9o.webp
       - type: ImageBlock
         url: /images/Sba3efc6b457d44929c4ed52f4e120a68g.webp
       - type: ImageBlock
