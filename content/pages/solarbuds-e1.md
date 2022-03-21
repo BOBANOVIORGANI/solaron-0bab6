@@ -224,7 +224,7 @@ sections:
     subtitle: PowerBank colours what you can get
     images:
       - url: /images/HTB1f2dCSXXXXXc3XpXXq6xXFXXXK.jpg
-        altText: B1 Coal Black
+        altText: E1 Coal Black
         caption: SolarPower B1 Coal Black
         elementId: ''
         styles:
