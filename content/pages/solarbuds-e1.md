@@ -92,7 +92,7 @@ sections:
           self:
             textAlign: center
       - type: FeaturedItem
-        title: Great battery
+        title: Sweatproof
         text: >
           It's great battery will provide 5-6 hours without charging case needed
           or up to 55 with it.
