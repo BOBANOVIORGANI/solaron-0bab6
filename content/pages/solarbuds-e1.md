@@ -225,7 +225,7 @@ sections:
     images:
       - url: /images/HTB1f2dCSXXXXXc3XpXXq6xXFXXXK.jpg
         altText: E1 Coal Black
-        caption: SolarPower B1 Coal Black
+        caption: SolarBuds E1 Coal Black
         elementId: ''
         styles:
           self:
