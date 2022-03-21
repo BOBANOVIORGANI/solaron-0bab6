@@ -92,8 +92,9 @@ sections:
             textAlign: center
       - type: FeaturedItem
         title: Great battery
-        text: |
+        text: >
           It's great battery will provide 5-6 hours without charging case needed
+          or up to 55 with it.
         featuredImage:
           type: ImageBlock
           url: /images/focused.svg
