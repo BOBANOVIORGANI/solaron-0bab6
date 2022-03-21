@@ -182,7 +182,7 @@ sections:
   - colors: colors-a
     elementId: ''
     title: Gallery
-    subtitle: Picture this product
+    subtitle: Picture the product
     images:
       - type: ImageBlock
         url: /images/Hf1f76d8b001a41429d458f45285f6d52R.jpg
