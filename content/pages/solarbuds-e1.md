@@ -11,7 +11,7 @@ sections:
   - elementId: ''
     colors: colors-a
     backgroundSize: full
-    title: Get the PowerBank
+    title: Get the Earbuds
     subtitle: ''
     badge:
       label: SolarPower B1
