@@ -94,8 +94,8 @@ sections:
       - type: FeaturedItem
         title: Sweatproof
         text: >
-          If you are jogging or training something, your sweat won't affect
-          earbuds's life.
+          If you are jogging or training something, your sweat won't affect your
+          earbuds.
         featuredImage:
           type: ImageBlock
           url: /images/focused.svg
