@@ -274,7 +274,15 @@ sections:
     text: >-
       Share WIP, comment on each other’s work, approve what’s ready to go, ship
       together
-    actions: []
+    actions:
+      - label: Learn more
+        altText: ''
+        url: /
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        elementId: ''
+        type: Link
     media:
       type: ImageBlock
       url: /images/hero-1.png
