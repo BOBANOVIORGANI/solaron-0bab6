@@ -76,7 +76,7 @@ sections:
         answer: >
           Still have questions? Contact us and we will answer as soon as
           possible.
-      - question: Does SolarBuds have wireless charging
+      - question: Does SolarBuds support wireless charging
         answer: >-
           At the office, working together is often a distruction, on remote, it
           could be motivation. At the office, working together is often a
