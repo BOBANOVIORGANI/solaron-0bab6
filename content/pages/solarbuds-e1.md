@@ -20,12 +20,12 @@ sections:
         self:
           textAlign: left
     text: >
-      Why you should get this PowerBank over the others you might ask? Well, for
-      first, this product is not designed for exact smartphone linup or brand,
-      any smartphone will charge at max speed that device support. Also, for
-      this price, you get some of the amazing features that you won't get with
-      most of the other PowerBanks, like already mentioned, solar replenishment
-      of the PowerBank, and more colours than regular black and white.
+      Why you should get this earbuds over the others you might ask? Well, for
+      first, this product is compatible with all Android and iOS devices that
+      support Bluetooth 5.0. It has great battery and solar charging if you even
+      need it. Also, for this price, you get some of the amazing features that
+      you won't get with most of the other earbuds, like already mentioned,
+      solar charging, sweatproof certificate, and HD voice call support.
     actions:
       - type: Button
         label: '29.99'
