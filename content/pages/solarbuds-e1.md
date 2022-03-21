@@ -169,7 +169,7 @@ sections:
       - type: ImageBlock
         url: /images/Sba3efc6b457d44929c4ed52f4e120a68g.webp
       - type: ImageBlock
-        url: /images/S051ec2f729e640969ec64925fe38acf6P.webp
+        url: /images/Sba3efc6b457d44929c4ed52f4e120a68g-e067010a.webp
         altText: Image three
       - type: ImageBlock
         url: /images/Hc72236a81ecc4efabb2c4cdb579dd65aQ.webp
