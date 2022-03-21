@@ -221,7 +221,7 @@ sections:
   - colors: colors-a
     elementId: ''
     title: Variants
-    subtitle: PowerBank colours what you can get
+    subtitle: Earbuds colours what you can get
     images:
       - url: >-
           /images/Solar-charging-High-quality-Outdoor-TWS-Wireless-Bluetooth-Earphones-Sport-Music-Real-HiFi-Stereo-Earbud-For.jpg_640x640
