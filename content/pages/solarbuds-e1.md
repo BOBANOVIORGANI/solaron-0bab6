@@ -6,7 +6,7 @@ metaDescription: >-
 addTitleSuffix: true
 socialImage: /images/SOLAROW (1)-0f31ac25.png
 metaTags: []
-title: SolarPower B1
+title: SolarBuds E1
 sections:
   - elementId: ''
     colors: colors-a
