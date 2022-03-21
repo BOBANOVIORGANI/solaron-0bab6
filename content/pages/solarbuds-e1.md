@@ -80,7 +80,7 @@ sections:
           self:
             textAlign: center
       - type: FeaturedItem
-        title: "Solar\_replenishment"
+        title: HD voice calls
         text: |
           The PowerBank can charge itself by solar energy, and Sun's sunshine.
         featuredImage:
