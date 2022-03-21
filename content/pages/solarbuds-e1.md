@@ -28,7 +28,7 @@ sections:
       solar charging, sweatproof certificate, and HD voice call support.
     actions:
       - type: Button
-        label: '29.99'
+        label: '34.99'
         url: 'https://solarow.bigcartel.com/product/solarpower-b1'
         style: primary
     media:
