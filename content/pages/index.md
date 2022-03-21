@@ -274,7 +274,9 @@ sections:
     text: >
       Charge your earbuds anywhere for 2 hours and use it 5-6 hours without
       charging case or up to 55 hours with. It comes with Bluetooth 5.0,
-      sweatproof certificate, and HD voice call support.
+      sweatproof certificate, and HD voice call support. Charge the case
+      anywhere where is light because solar panel on the case will detect light
+      and convert it in a electric energy.
     actions:
       - label: Learn more
         altText: ''
