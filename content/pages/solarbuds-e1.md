@@ -81,8 +81,9 @@ sections:
             textAlign: center
       - type: FeaturedItem
         title: HD voice calls
-        text: |
-          The PowerBank can charge itself by solar energy, and Sun's sunshine.
+        text: >
+          Earbuds support HD voice calls so you can normally talk on your phone
+          without other person yelling at you.
         featuredImage:
           type: ImageBlock
           url: /images/smarter.svg
