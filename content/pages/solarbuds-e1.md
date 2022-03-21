@@ -1,5 +1,5 @@
 ---
-metaTitle: SolarPower B1
+metaTitle: SolarBuds E1
 metaDescription: >-
   The newest product from SOLAROW. Great product for value with some unusual
   features. Since 2022.
