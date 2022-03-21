@@ -29,7 +29,7 @@ sections:
     actions:
       - type: Button
         label: '34.99'
-        url: 'https://solarow.bigcartel.com/product/solarpower-b1'
+        url: 'https://solarow.bigcartel.com/product/solarbuds-e1'
         style: primary
     media:
       type: ImageBlock
