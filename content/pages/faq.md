@@ -34,6 +34,11 @@ sections:
           have ANC, 3D sound, sweatproof certificate, long battery life, and
           stable connection with both Android or iOS devices that support
           Bluetooth 5.0.
+      - question: Does SolarBuds support wireless charging?
+        answer: >
+          The answer is no, SolarBuds does not support wireless charging.
+          Instead of that, they support solar charging so you can charge in on a
+          day light.
       - answer: >
           Wireless charging coil have just SolarPower M1, so if you want
           PowerBank with wireless charging support, then SolarPower M1 is our
@@ -76,11 +81,6 @@ sections:
         answer: >
           Still have questions? Contact us and we will answer as soon as
           possible.
-      - question: Does SolarBuds support wireless charging?
-        answer: >
-          The answer is no, SolarBuds does not support wireless charging.
-          Instead of that, they support solar charging so you can charge in on a
-          day light.
     styles:
       self:
         height: auto
