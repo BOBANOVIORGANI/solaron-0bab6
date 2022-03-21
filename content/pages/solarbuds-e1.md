@@ -79,7 +79,6 @@ sections:
           self:
             textAlign: center
         title: Great battery
-        subtitle: v
       - type: FeaturedItem
         title: HD voice calls
         text: >
