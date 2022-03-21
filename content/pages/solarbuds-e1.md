@@ -14,7 +14,7 @@ sections:
     title: Get the Earbuds
     subtitle: ''
     badge:
-      label: SolarPower B1
+      label: SolarBuds E1
       elementId: ''
       styles:
         self:
