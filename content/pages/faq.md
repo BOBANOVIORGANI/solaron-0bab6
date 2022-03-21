@@ -27,6 +27,13 @@ sections:
           waterproof so rain won't damage your lamp. Even if happen that you are
           riding on a bike at night and your lamp isn't charged, you can use
           your SolarPower PowerBank at least to turn the lamp on when riding.
+      - question: What is SolarBuds?
+        answer: >
+          SolarBuds is wireless earbuds series that can like every other SOLAROW
+          product be charged by solar energy with solar panels. Earbuds also
+          have ANC, 3D sound, sweatproof certificate, long battery life, and
+          stable connection with both Android or iOS devices that support
+          Bluetooth 5.0.
       - answer: >
           Wireless charging coil have just SolarPower M1, so if you want
           PowerBank with wireless charging support, then SolarPower M1 is our
@@ -69,13 +76,6 @@ sections:
         answer: >
           Still have questions? Contact us and we will answer as soon as
           possible.
-      - question: What is SolarBuds?
-        answer: >
-          SolarBuds is wireless earbuds series that can like every other SOLAROW
-          product be charged by solar energy with solar panels. Earbuds also
-          have ANC, 3D sound, sweatproof certificate, long battery life, and
-          stable connection with both Android or iOS devices that support
-          Bluetooth 5.0.
     styles:
       self:
         height: auto
