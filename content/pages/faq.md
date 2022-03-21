@@ -70,11 +70,8 @@ sections:
           Still have questions? Contact us and we will answer as soon as
           possible.
       - question: What is SolarEar?
-        answer: >-
-          At the office, working together is often a distruction, on remote, it
-          could be motivation. At the office, working together is often a
-          distruction, on remote, it could be motivation. At the office, working
-          together is often a distruction, on remote, it could be motivation.
+        answer: |
+          SolarEar is earbuds linup
     styles:
       self:
         height: auto
