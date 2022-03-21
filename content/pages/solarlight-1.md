@@ -186,49 +186,6 @@ sections:
     type: CtaSection
   - colors: colors-a
     elementId: ''
-    title: Gallery
-    subtitle: Picture this product
-    images:
-      - type: ImageBlock
-        url: /images/H57164fa4995c40f0955a946c06228a87o.webp
-      - type: ImageBlock
-        url: /images/H8bb4bc79ef5d4746ac031c9caf3a16d3w.webp
-      - type: ImageBlock
-        url: /images/H259eefcd77884e9c9d167a0f56444cddu.webp
-      - url: /images/H26b7f92ff80449119028ff5174dc5ef00.webp
-        elementId: ''
-        styles:
-          self:
-            opacity: 100
-        type: ImageBlock
-    spacing: 1
-    columns: 2
-    aspectRatio: '1:1'
-    imageSizePx: 300
-    showCaption: true
-    enableHover: true
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-12
-          - pb-12
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: center
-      subtitle:
-        textAlign: center
-    type: MediaGallerySection
-  - colors: colors-a
-    elementId: ''
     title: Variants
     subtitle: Lamp colours what you can get
     images:
