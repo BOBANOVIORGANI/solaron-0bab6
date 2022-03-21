@@ -233,7 +233,7 @@ sections:
         type: ImageBlock
       - url: /images/HTB1Ncf5RVXXXXcrXpXXq6xXFXXXO.jpg
         altText: SolarBuds E1 Cloud White
-        caption: B1 Shiny Silver
+        caption: E1 Cloud White
         elementId: ''
         styles:
           self:
