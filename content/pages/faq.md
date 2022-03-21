@@ -69,7 +69,7 @@ sections:
         answer: >
           Still have questions? Contact us and we will answer as soon as
           possible.
-      - question: What is SolarEar?
+      - question: What is SolarBuds?
         answer: >
           SolarBuds is wireless earbuds series that can like every other SOLAROW
           product be charged by solar energy with solar panels. Earbuds also
