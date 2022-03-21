@@ -288,7 +288,8 @@ sections:
         type: Link
     media:
       type: ImageBlock
-      url: /images/hero-1.png
+      url: >-
+        /images/TWS-Bluetooth-5-0-Earphones-Solar-Charging-Box-Wireless-Headphone-9D-Stereo-Sports-Waterproof-Earbuds-Headsets.jpg_Q90.jpg_.webp
       altText: Hero image
     styles:
       self:
