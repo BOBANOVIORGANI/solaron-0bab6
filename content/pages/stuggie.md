@@ -1,6 +1,6 @@
 ---
 metaTitle: STUGGIE
-metaDescription: null
+metaDescription: STUGGIE is important part of our team
 addTitleSuffix: true
 socialImage: null
 metaTags: []
