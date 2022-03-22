@@ -11,7 +11,7 @@ sections:
     title: STUGGIE got a shop
     subtitle: ''
     badge:
-      label: This is the badge
+      label: 'One and only, STUGGIE'
       elementId: ''
       styles:
         self:
