@@ -46,7 +46,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-    title: 'Charge smart, worry less'
+    title: 'Charge smart, change less'
   - elementId: ''
     colors: colors-a
     title: Need huge battery?
