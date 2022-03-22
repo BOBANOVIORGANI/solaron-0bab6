@@ -16,10 +16,10 @@ sections:
       styles:
         self:
           textAlign: left
-    text: >-
-      One platform, one community, getting to the bottom line of everything
-      employment.  Figure out your benefits, practice for interviews, get
-      mentored, help peers, get helped in return.
+    text: >
+      STUGGIE has his own webstore now, wanna see? Get his merch, smartphone
+      cases and even different digital art logos of STUGGIE. Check out now and
+      make him happy again.
     actions:
       - type: Button
         label: Sign Up
