@@ -1,5 +1,5 @@
 ---
-metaTitle: null
+metaTitle: STUGGIE
 metaDescription: null
 addTitleSuffix: true
 socialImage: null
