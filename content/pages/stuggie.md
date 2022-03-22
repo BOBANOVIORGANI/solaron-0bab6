@@ -4,7 +4,7 @@ metaDescription: >-
   STUGGIE is important part of our team. He helped us a lot with every big
   project and gives us motivation for next. Since 2022.
 addTitleSuffix: true
-socialImage: null
+socialImage: /images/SOLAROW (1)-5074eeb3.png
 metaTags: []
 title: STUGGIE
 sections:
