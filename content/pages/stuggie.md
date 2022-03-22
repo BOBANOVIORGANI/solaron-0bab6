@@ -25,7 +25,7 @@ sections:
     actions:
       - type: Button
         label: TAKE A LOOK
-        url: 'https://my-store-c9b912.creator-spring.com'
+        url: 'https://www.stuggie.tk/'
         style: primary
     media:
       type: ImageBlock
