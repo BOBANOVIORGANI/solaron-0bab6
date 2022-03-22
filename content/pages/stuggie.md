@@ -8,7 +8,7 @@ title: STUGGIE
 sections:
   - elementId: ''
     colors: colors-a
-    title: Love where you work
+    title: STUGGIE got a shop
     subtitle: ''
     badge:
       label: This is the badge
