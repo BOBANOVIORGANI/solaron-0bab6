@@ -2,7 +2,7 @@
 metaTitle: STUGGIE
 metaDescription: >-
   STUGGIE is important part of our team. He helped us a lot with every big
-  project and gives us motivation for ne
+  project and gives us motivation for next. Since 2022.
 addTitleSuffix: true
 socialImage: null
 metaTags: []
