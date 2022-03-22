@@ -16,6 +16,14 @@ sections:
         style: secondary
         elementId: ''
         type: Button
+      - label: Learn more
+        altText: ''
+        url: /
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        elementId: ''
+        type: Link
     media:
       type: ImageBlock
       url: /images/stuggie.png
