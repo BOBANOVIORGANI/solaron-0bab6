@@ -23,7 +23,7 @@ sections:
     actions:
       - type: Button
         label: TAKE A LOOK
-        url: /
+        url: 'https://my-store-c9b912.creator-spring.com'
         style: primary
     media:
       type: ImageBlock
