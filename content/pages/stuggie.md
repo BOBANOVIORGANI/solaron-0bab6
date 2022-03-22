@@ -1,6 +1,8 @@
 ---
 metaTitle: STUGGIE
-metaDescription: 'STUGGIE is important part of our team. '
+metaDescription: >-
+  STUGGIE is important part of our team. He helped us a lot with every big
+  project and gives us motivation for ne
 addTitleSuffix: true
 socialImage: null
 metaTags: []
