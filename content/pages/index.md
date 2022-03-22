@@ -16,7 +16,7 @@ sections:
         style: secondary
         elementId: ''
         type: Button
-      - label: What is s
+      - label: What is stuggie doing
         altText: ''
         url: /stuggie
         showIcon: true
