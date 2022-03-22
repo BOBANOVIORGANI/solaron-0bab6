@@ -22,7 +22,7 @@ sections:
       make him happy again.
     actions:
       - type: Button
-        label: Sign Up
+        label: TAKE A LOOK
         url: /
         style: primary
     media:
