@@ -18,7 +18,7 @@ sections:
         type: Button
       - label: Learn more
         altText: ''
-        url: /
+        url: /stuggie
         showIcon: true
         icon: arrowRight
         iconPosition: right
