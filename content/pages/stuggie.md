@@ -24,7 +24,7 @@ sections:
       STUGGIE. Check out now and make him happy again.
     actions:
       - type: Button
-        label: TAKE A LOOK
+        label: GET
         url: 'https://www.stuggie.tk/'
         style: primary
     media:
