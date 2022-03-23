@@ -10,7 +10,7 @@ title: STUGGIE
 sections:
   - elementId: ''
     colors: colors-a
-    title: STUGGIE got a shop
+    title: STUGGIE got a site
     subtitle: ''
     badge:
       label: 'One and only, STUGGIE'
