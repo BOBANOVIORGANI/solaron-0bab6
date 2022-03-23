@@ -27,7 +27,7 @@ sections:
         label: GET
         url: 'https://www.stuggie.tk/'
         style: primary
-      - label: Learn more
+      - label: I wanna see the site
         altText: ''
         url: /
         showIcon: false
