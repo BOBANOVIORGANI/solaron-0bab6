@@ -25,7 +25,7 @@ sections:
     actions:
       - type: Button
         label: GET
-        url: 'https://www.stuggie.tk/'
+        url: 'https://www.store-stuggie.tk/'
         style: primary
       - label: I wanna see the site
         altText: ''
