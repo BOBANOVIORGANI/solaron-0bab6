@@ -30,7 +30,7 @@ sections:
       - label: I wanna see the site
         altText: ''
         url: /
-        showIcon: false
+        showIcon: true
         icon: arrowRight
         iconPosition: right
         elementId: ''
