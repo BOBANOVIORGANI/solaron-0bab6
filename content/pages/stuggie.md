@@ -19,9 +19,9 @@ sections:
         self:
           textAlign: left
     text: >
-      STUGGIE has his own webstore now, wanna see? Get his merch, smartphone
-      cases and even different digital art logos of STUGGIE. Check out now and
-      make him happy again.
+      STUGGIE got his independence. He now has his own website, wanna see? Get
+      his merch, smartphone cases and even different digital art logos of
+      STUGGIE. Check out now and make him happy again.
     actions:
       - type: Button
         label: TAKE A LOOK
