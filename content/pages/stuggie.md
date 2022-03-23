@@ -29,7 +29,7 @@ sections:
         style: primary
       - label: I wanna see the site
         altText: ''
-        url: /
+        url: 'https://www.store-stuggie.tk/'
         showIcon: true
         icon: arrowRight
         iconPosition: right
