@@ -13,11 +13,11 @@ sections:
     text: |+
       We look forward to hearing feedback from you.
 
-      *   SOLAROW
+      *   Company: SOLAROW
 
-      *   Croatia
+      *   Country: Croatia
 
-      *   10000 Zagreb
+      *   Address: 10000 Zagreb
 
       *   E-Mail: contact.solarow@gmail.com
 
