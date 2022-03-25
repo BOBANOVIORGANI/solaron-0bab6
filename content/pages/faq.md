@@ -34,6 +34,12 @@ sections:
           have ANC, 3D sound, sweatproof certificate, long battery life, and
           stable connection with both Android or iOS devices that support
           Bluetooth 5.0.
+      - question: Who is STUGGIE?
+        answer: >
+          STUGGIE is mascot, but overall big part of our team. He is originally
+          made of our logo but with little redesign. We also made special
+          website and store for him so check out some amazing clothes, phone
+          cases, and digital arts.
       - question: Does SolarBuds support wireless charging?
         answer: >
           The answer is no, SolarBuds does not support wireless charging.
@@ -81,12 +87,6 @@ sections:
         answer: >
           Still have questions? Contact us and we will answer as soon as
           possible.
-      - question: Who is STUGGIE?
-        answer: >
-          STUGGIE is mascot, but overall big part of our team. He is originally
-          made of our logo but with little redesign. We also made special
-          website and store for him so check out some amazing clothes, phone
-          cases, and digital arts.
     styles:
       self:
         height: auto
