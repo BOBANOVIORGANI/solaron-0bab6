@@ -52,7 +52,7 @@ sections:
           label: Subscribe to newsletter
           isRequired: false
           width: full
-      submitLabel: Send Message
+      submitLabel: Send
     media: null
     styles:
       self:
