@@ -451,7 +451,7 @@ sections:
       fields:
         - type: EmailFormControl
           name: email
-          placeholder: Your email
+          placeholder: Enter your email
           isRequired: 'true'
           width: full
       submitLabel: Subscribe
