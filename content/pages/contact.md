@@ -11,7 +11,7 @@ sections:
     backgroundSize: full
     title: Contact us
     text: |+
-      We look forward to hearing feedback from you.
+      We look forward to hear feedback from you, and provide help.
 
       *   Company: SOLAROW
 
