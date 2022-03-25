@@ -37,7 +37,7 @@ sections:
         - type: EmailFormControl
           name: email
           label: Email
-          placeholder: Your email
+          placeholder: Enter your email
           isRequired: 'true'
           width: 1/2
         - name: description
