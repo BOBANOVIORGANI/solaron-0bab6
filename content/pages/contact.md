@@ -31,7 +31,7 @@ sections:
         - type: TextFormControl
           name: name
           label: Name
-          placeholder: Your name
+          placeholder: Enter your name
           isRequired: 'true'
           width: 1/2
         - type: EmailFormControl
