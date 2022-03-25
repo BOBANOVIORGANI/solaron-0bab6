@@ -82,11 +82,11 @@ sections:
           Still have questions? Contact us and we will answer as soon as
           possible.
       - question: Who is STUGGIE?
-        answer: >-
-          At the office, working together is often a distruction, on remote, it
-          could be motivation. At the office, working together is often a
-          distruction, on remote, it could be motivation. At the office, working
-          together is often a distruction, on remote, it could be motivation.
+        answer: >
+          STUGGIE is mascot, but overall big part of our team. He is originally
+          made of our logo but with little redesign. We also made special
+          website and store for him so check out some amazing clothes, phone
+          cases, and digital arts.
     styles:
       self:
         height: auto
