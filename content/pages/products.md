@@ -12,9 +12,8 @@ sections:
     colors: colors-a
     backgroundSize: full
     title: Which product do you want to see?
-    text: >-
-      The Stackbit theme is flexible and scalable to every need. It can manage
-      any layout and any screen.
+    text: |
+      Here is listed every product we've ever made.
     actions: []
     backgroundImage: null
     styles:
