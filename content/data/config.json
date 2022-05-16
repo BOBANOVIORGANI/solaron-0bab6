@@ -9,7 +9,7 @@
         "primaryLinks": [
             {
                 "type": "Button",
-                "label": "GET",
+                "label": "GET ",
                 "altText": "",
                 "url": "/",
                 "showIcon": false,
