@@ -50,7 +50,7 @@ sections:
       - type: Link
         label: SolarBuds E1
         altText: ''
-        url: /
+        url: /solarbuds-e1
         showIcon: false
         icon: arrowRight
         iconPosition: right
