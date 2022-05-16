@@ -42,7 +42,7 @@ sections:
       - type: Link
         label: SolarLight 1
         altText: ''
-        url: /
+        url: /solarlight-1
         showIcon: false
         icon: arrowRight
         iconPosition: right
