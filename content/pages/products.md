@@ -48,7 +48,7 @@ sections:
         iconPosition: right
         elementId: ''
       - type: Link
-        label: Learn more
+        label: SolarBuds E1
         altText: ''
         url: /
         showIcon: false
