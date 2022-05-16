@@ -332,7 +332,7 @@ sections:
       for.
     items:
       - type: FeaturedItem
-        title: Ecofriendly
+        title: Eco-friendly
         text: >
           They are made of recycle and degradable materials what doesn't affect
           to the nature even if you trow it away for some reason.
