@@ -55,6 +55,15 @@ sections:
         icon: arrowRight
         iconPosition: right
         elementId: ''
+      - type: Button
+        label: Learn more
+        altText: ''
+        url: /
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
     backgroundImage: null
     styles:
       self:
