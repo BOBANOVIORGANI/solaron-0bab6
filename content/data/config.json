@@ -8,16 +8,6 @@
         "isTitleVisible": true,
         "primaryLinks": [
             {
-                "label": "E1",
-                "altText": "",
-                "url": "/solarbuds-e1",
-                "showIcon": false,
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "elementId": "",
-                "type": "Link"
-            },
-            {
                 "type": "Link",
                 "label": "PRODUCTS",
                 "altText": "",
