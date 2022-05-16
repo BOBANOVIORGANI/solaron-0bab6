@@ -8,16 +8,6 @@
         "isTitleVisible": true,
         "primaryLinks": [
             {
-                "type": "Link",
-                "label": "PRODUCTS",
-                "altText": "",
-                "url": "/products",
-                "showIcon": true,
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "elementId": ""
-            },
-            {
                 "type": "Button",
                 "label": "Learn more",
                 "altText": "",
@@ -26,6 +16,16 @@
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
+                "elementId": ""
+            },
+            {
+                "type": "Link",
+                "label": "PRODUCTS",
+                "altText": "",
+                "url": "/products",
+                "showIcon": true,
+                "icon": "arrowRight",
+                "iconPosition": "right",
                 "elementId": ""
             }
         ],
