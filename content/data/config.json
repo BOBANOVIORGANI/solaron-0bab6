@@ -13,7 +13,7 @@
                 "altText": "",
                 "url": "/products",
                 "showIcon": true,
-                "icon": "chevronLeft",
+                "icon": "cart",
                 "iconPosition": "right",
                 "elementId": ""
             }
