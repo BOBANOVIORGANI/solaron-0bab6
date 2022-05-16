@@ -11,7 +11,7 @@ sections:
     elementId: ''
     colors: colors-a
     backgroundSize: full
-    title: Let's do this
+    title: Which product do you want to see?
     text: >-
       The Stackbit theme is flexible and scalable to every need. It can manage
       any layout and any screen.
