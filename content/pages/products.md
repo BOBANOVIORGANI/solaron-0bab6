@@ -19,7 +19,7 @@ sections:
         label: SolarPower B1
         altText: ''
         url: /
-        showIcon: true
+        showIcon: false
         icon: play
         iconPosition: right
         elementId: ''
