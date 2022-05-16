@@ -359,8 +359,8 @@ sections:
       - type: FeaturedItem
         title: Solar powered
         text: >
-          When the PowerBanks and lamps are charged to the max, it will
-          automatically stop charging to extend the battery.
+          Batteries are powered by USB-C cable or solar energy trought solar
+          pannel on the front/top of the product.
         featuredImage:
           url: /images/2914281.png
           altText: altText of the image
