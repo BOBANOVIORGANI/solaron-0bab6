@@ -8,17 +8,6 @@
         "isTitleVisible": true,
         "primaryLinks": [
             {
-                "type": "Button",
-                "label": "GET 'EM",
-                "altText": "",
-                "url": "/",
-                "showIcon": false,
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "elementId": ""
-            },
-            {
                 "type": "Link",
                 "label": "PRODUCTS",
                 "altText": "",
