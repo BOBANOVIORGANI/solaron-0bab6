@@ -24,7 +24,7 @@ sections:
       STUGGIE. Check out now and make him happy again.
     actions:
       - type: Button
-        label: GET
+        label: GET PRODUCTS
         url: 'https://www.store-stuggie.tk/'
         style: primary
       - label: I wanna see the site
