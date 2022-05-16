@@ -24,7 +24,7 @@ sections:
         iconPosition: right
         elementId: ''
       - type: Link
-        label: Learn more
+        label: SolarPower B1
         altText: ''
         url: /
         showIcon: false
