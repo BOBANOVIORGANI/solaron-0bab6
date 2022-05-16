@@ -22,7 +22,7 @@
                 "label": "PRODUCTS",
                 "altText": "",
                 "url": "/products",
-                "showIcon": false,
+                "showIcon": true,
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "elementId": ""
