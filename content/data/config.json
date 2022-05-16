@@ -8,16 +8,6 @@
         "isTitleVisible": true,
         "primaryLinks": [
             {
-                "label": "BUY",
-                "altText": "",
-                "url": "/solarlight-1",
-                "showIcon": false,
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "elementId": "",
-                "type": "Link"
-            },
-            {
                 "label": "E1",
                 "altText": "",
                 "url": "/solarbuds-e1",
