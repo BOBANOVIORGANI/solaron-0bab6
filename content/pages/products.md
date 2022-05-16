@@ -16,7 +16,7 @@ sections:
       Here is listed every product we've ever made.
     actions:
       - type: Link
-        label: Learn more
+        label: SolarPower B1
         altText: ''
         url: /
         showIcon: false
