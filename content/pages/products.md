@@ -14,7 +14,15 @@ sections:
     title: Which product do you want to see?
     text: |
       Here is listed every product we've ever made.
-    actions: []
+    actions:
+      - type: Link
+        label: Learn more
+        altText: ''
+        url: /
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        elementId: ''
     backgroundImage: null
     styles:
       self:
