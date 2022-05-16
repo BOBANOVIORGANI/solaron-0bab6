@@ -18,7 +18,7 @@ sections:
       - type: Link
         label: SolarPower B1
         altText: ''
-        url: /solar
+        url: /solarpower
         showIcon: false
         icon: play
         iconPosition: right
