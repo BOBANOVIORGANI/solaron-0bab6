@@ -8,16 +8,6 @@
         "isTitleVisible": true,
         "primaryLinks": [
             {
-                "altText": "",
-                "url": "/solarpower-b1",
-                "showIcon": false,
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "elementId": "",
-                "type": "Link",
-                "label": "B1"
-            },
-            {
                 "label": "P1",
                 "altText": "",
                 "url": "/solarpower-p1",
