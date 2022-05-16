@@ -44,9 +44,8 @@ sections:
     colors: colors-a
     backgroundSize: full
     text: >
-      Welcome to SOLAROW, your number one source for solar PowerBanks. We're
-      dedicated to giving you the very best of PowerBanks, with a focus on
-      SolarPower B1.
+      Welcome to SOLAROW, your number one source for solar products. We're
+      dedicated to giving you the very best of solar products.
 
 
       Founded in 2022. by Marin Golub, SOLAROW has come a long way from its
