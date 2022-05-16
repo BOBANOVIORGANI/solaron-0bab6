@@ -34,7 +34,7 @@ sections:
       - type: Link
         label: SolarPower M1
         altText: ''
-        url: /solarpower-b1
+        url: /solarpower-m1
         showIcon: false
         icon: arrowRight
         iconPosition: right
