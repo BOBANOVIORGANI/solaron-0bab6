@@ -357,7 +357,7 @@ sections:
               - pb-6
               - pr-4
       - type: FeaturedItem
-        title: Smarter
+        title: Solar powered
         text: >
           When the PowerBanks and lamps are charged to the max, it will
           automatically stop charging to extend the battery.
