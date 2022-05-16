@@ -40,7 +40,7 @@ sections:
         iconPosition: right
         elementId: ''
       - type: Link
-        label: SolarPower B1
+        label: SolarLight 1
         altText: ''
         url: /
         showIcon: false
