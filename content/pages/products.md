@@ -20,7 +20,7 @@ sections:
         altText: ''
         url: /
         showIcon: true
-        icon: apple
+        icon: play
         iconPosition: right
         elementId: ''
       - type: Link
